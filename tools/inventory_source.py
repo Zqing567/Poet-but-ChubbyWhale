@@ -109,7 +109,7 @@ def main():
             continue
         name=item['source_path']
         manifest['assets'].append({**item,'asset_id':'JT-'+hashlib.sha256(name.encode()).hexdigest()[:12].upper(),
-            'path':None,'target_path':None,'category':'release_delivery','used_in_final':False,
+            'path':None,'target_path':'projects/jin-token/release/withheld/'+name.split('production/v3/',1)[-1],'category':'release_delivery','used_in_final':False,
             'story_nodes':['RELEASE'],'usage':'Final video / cover delivery, not runtime input',
             'rights_holder':'unconfirmed composite rights','license_status':'pending','publish_approved':False,
             'license_evidence':None,'distribution':'local_only_pending_review','migration_status':'withheld_pending_rights',

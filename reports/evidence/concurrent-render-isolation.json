@@ -1,0 +1,15 @@
+{
+  "scenario": "Concurrent private and demo, same output parent, different output basenames",
+  "private_frames": [
+    2550,
+    2552
+  ],
+  "demo_frames": [
+    2550,
+    2552
+  ],
+  "different_input_paths": 16,
+  "first_frame_mean_rgb_difference": 58.792424768518515,
+  "isolated_bundle_directories": true,
+  "pass": true
+}

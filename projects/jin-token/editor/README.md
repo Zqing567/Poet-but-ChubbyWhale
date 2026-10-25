@@ -45,7 +45,7 @@ node render-submission-4k.cjs --public-dir ../../../.local-staging/private-publi
 
 - 默认scale=3，3840×2160，H.264 CRF12 / AAC320k / yuv420p / BT.709。
 - `--scale 1`仅用于720p检查；`--frames 2523-2612`可单独检查追加90帧。范围渲染不冒充全片验证。
-- `--output`必须是新文件；脚本拒绝覆盖。打包与临时目录跟随输出，不依赖源工程兄弟目录或个人盘符。
+- `--output`必须是新文件；脚本拒绝覆盖。每个输出basename拥有独立打包与临时目录，支持并行任务隔离；目录跟随输出，不依赖源工程兄弟目录或个人盘符。
 - 导出后写 `.render.json`，含19项输入SHA-256、帧范围和输出SHA-256；输出字节可能随浏览器/编码器变化，不承诺与旧成片SHA一致。
 - 缺媒体会列出具体路径。`python tools/audit_project.py --strict`默认检查公开public，不会因私人ignored目录有素材就误报公开仓库完整。
 - 改源码运行 `npm run lint`、`npm run build`；完整解码、关键帧、字幕末态与尾声/声音仍要单独检查。

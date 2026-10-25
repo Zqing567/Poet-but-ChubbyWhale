@@ -1,0 +1,45 @@
+{
+  "source_record": "production/v3/10_upper_half_20261021/generation-manifest.json",
+  "source_checkout_sha256": "494640da0f665c6d1500d84ee3fdbfc108917e59772bb3ecd62a33ec13b8b15c",
+  "status": "Historical candidates, not an assertion every output was selected",
+  "sanitization": "Machine absolute paths replaced with project relative paths or local-reference basenames; prompt text retained.",
+  "record": [
+    {
+      "id": "rice-day-night",
+      "refs": [
+        "production/v3/05_memes/sources/Q版大肥鱼三视图-原皮.png"
+      ],
+      "prompt": "Create one wide horizontal two-panel meme illustration, no written text, no borders cropping characters. Identity reference only: the attached blue-haired chibi whale maid girl, retain blue gradient hair, curved ahoge, fin-shaped ears, white lace maid headband, navy maid dress with white apron, broad navy whale tail. Both panels same character, cheerful innocent expression and exactly TWO arms and TWO hands. LEFT daylight: one FULL bowl of steaming white rice in EACH hand, two bowls total, she happily hugs them near her cheeks with mouth open in delighted anticipation. RIGHT dusk evening: BOTH hands support ONE full bowl of rice together centered under her face, delighted eating expression and rice grain at lip. No chopsticks, no third hand. Show full head, tail and upper body in both panels with generous margins. Soft clean classic anime meme illustration, creamy paper ground with subtle watercolor atmosphere, readable strong character silhouettes, daytime warm blue/ivory left and subdued twilight blue right. No bubble frame, no labels, no Chinese lettering. Aspect 2:1.",
+      "source": "local-reference:exec-6a50ed56-2504-4dab-96a8-f44d79b5ffe8.png"
+    },
+    {
+      "id": "gpu-material",
+      "refs": [
+        "production/v3/editor/public/art/A-selected.png"
+      ],
+      "prompt": "Precise local edit of attached 16:9 image. Preserve original heroine, face, hairstyle, ivory hanfu, pose, scale, exact position, bowl, sea, orca and tail, distant whale, clouds, horizon, sunset, paper palette and entire composition. Do not mirror, zoom or move anything. NO text and no thought bubbles. Replace ONLY cliff ROCK MATERIAL with dark graphite GPU heatsink metal. Keep cliff silhouette and rock masses exactly. Faint repeated cooling fins, screw heads, copper/blue PCB traces and occasional accelerator-board edge emerge from original facets. Recognizably GPU machinery built into rock, not random futuristic cubes. Painterly light ink washes and blue-grey brushed metal, understated. Outside the cliff replacement the scene must remain visually identical. Keep full original image framing and broad empty sky, traditional ink and pale watercolor, not photorealism, not detailed CGI.",
+      "source": "local-reference:exec-faa90c4f-81e0-40a3-86fb-91b3fcc2701d.png"
+    },
+    {
+      "id": "gpu-stack",
+      "refs": [
+        "production/v3/editor/public/art/A-selected.png"
+      ],
+      "prompt": "Precise local edit of attached 16:9 image. Preserve original heroine, face, hairstyle, ivory hanfu, pose, scale, exact position, bowl, sea, orca and tail, distant whale, clouds, horizon, sunset, paper palette and entire composition. Do not mirror, zoom or move anything. NO text and no thought bubbles. Replace ONLY cliff face and crown surface below the girl with densely STACKED recognizable large rectangular data-center GPU accelerator boards and heatsink modules forming the identical tall cliff silhouette. Layers of silvery black cooling fins, dark PCB slabs, occasional dull copper piping. Small modules follow rock perspective and sunset lighting, no vivid LEDs, no logos. Girl and bowl stand securely on a level top unchanged. The cliff should clearly read as an immense GPU cluster, not a neon city. Outside the cliff replacement the scene must remain visually identical. Keep full original image framing and broad empty sky, traditional ink and pale watercolor, not photorealism, not detailed CGI.",
+      "source": "local-reference:exec-64d90430-00c4-4509-b19c-58d12cc2ffb2.png"
+    },
+    {
+      "id": "gpu-hybrid",
+      "refs": [
+        "production/v3/editor/public/art/A-selected.png"
+      ],
+      "prompt": "Precise local edit of attached 16:9 image. Preserve original heroine, face, hairstyle, ivory hanfu, pose, scale, exact position, bowl, sea, orca and tail, distant whale, clouds, horizon, sunset, paper palette and entire composition. Do not mirror, zoom or move anything. NO text and no thought bubbles. Transform ONLY existing cliff face into a hybrid GPU server cluster: preserve about half the original ink rock structure; embed orderly server GPU accelerator racks and cooling-fin layers in existing vertical cracks and ledges, with GPU board silhouettes at crown. Stronger visible hardware than a mere texture, restrained enough to remain an ink landscape. Muted slate blue and charcoal, touches of aged copper. No modern building silhouettes elsewhere. Outside the cliff replacement the scene must remain visually identical. Keep full original image framing and broad empty sky, traditional ink and pale watercolor, not photorealism, not detailed CGI.",
+      "source": "local-reference:exec-c2944427-0650-4abf-b199-da9064037863.png"
+    },
+    {
+      "id": "thought-paper",
+      "prompt": "Generate ONE isolated empty thought-bubble artwork, landscape about 2:1. Genuine transparent background outside the bubble. Broad softly irregular cloud-shaped rounded paper body, ample nearly rectangular inner usable space, subtle warm ivory rice-paper fibers, pale blue-gray watercolor bleeding and very restrained thin broken ink edge. Slight translucent washed outer rim, warm antique paper interior, no hard white flat ellipse, no black comic outline, no shadow sticker border. Two SMALL detached paper thought dots descend toward lower-left beneath the body (not a speech tail). This will sit above a blue-haired whale girl in a pale ink sunset coastal painting. No text, no characters, no scenery inside, no symbols, keep center quiet and clean for inserting the complete original meme. Organic but restrained, refined Chinese ink/watercolor palette.",
+      "source": "local-reference:exec-a9cc66ef-a0ab-4d42-a6ca-551d81f061b7.png"
+    }
+  ]
+}

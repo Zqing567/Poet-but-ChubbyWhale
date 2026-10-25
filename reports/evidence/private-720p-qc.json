@@ -1,6 +1,6 @@
 {
-  "video_name": "private-final-720p.mp4",
-  "sha256": "962ca9eacabfba1c8c41693c28e1cefdbc1bcf2e63d8bfd64a81fb0e0c25abf6",
+  "video_name": "private-final-720p-verified.mp4",
+  "sha256": "e37f725b8780950d119eece9771e0026e747d1928dfafc50628367bd446e444f",
   "format": {
     "width": 1280,
     "height": 720,
@@ -15,6 +15,7 @@
     "audio_channels": 2,
     "audio_bitrate": "317375"
   },
+  "mode": "private_original_media_reproduction",
   "full_decode_exit": 0,
   "decode_stderr_empty": true,
   "audio_sync_windows": [
@@ -60,11 +61,11 @@
     "last_20ms_dbfs": -71.18121113093737
   },
   "tail_motion_half_second_mean_absolute_differences": [
-    12.432147525676937,
-    6.7027544351073765,
-    9.37154995331466,
-    11.109607843137255,
-    5.691503267973856
+    36.60365079365079,
+    35.69732026143791,
+    25.57125116713352,
+    42.11519140989729,
+    41.328543417366944
   ],
   "limits": "Checks technical synchronization, not artistic recitation quality or redistribution rights; output hash need not match old encoder output.",
   "technical_pass": true

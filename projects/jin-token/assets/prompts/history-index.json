@@ -1,0 +1,22 @@
+[
+  {
+    "file": "upper-candidate-prompts.json",
+    "source": "production/v3/10_upper_half_20261021/generation-manifest.json",
+    "status": "Historical candidates, not an assertion every output was selected"
+  },
+  {
+    "file": "garden-layout-candidates.json",
+    "source": "参考图片/曲水流饭_构图候选_20261022/生图提示词与候选说明.json",
+    "status": "Layout candidate comparison"
+  },
+  {
+    "file": "garden-chibi-revision.json",
+    "source": "参考图片/曲水流饭_定稿_20261022/定稿修订说明与提示词.json",
+    "status": "Selected base revision; later character corrections are separately recorded"
+  },
+  {
+    "file": "garden-character-corrections.json",
+    "source": "参考图片/曲水流饭_定稿_20261022/v2_两角色修订与4K实测.json",
+    "status": "Later character correction and actual output size record"
+  }
+]

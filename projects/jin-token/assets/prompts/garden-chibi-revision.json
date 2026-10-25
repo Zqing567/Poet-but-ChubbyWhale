@@ -1,0 +1,31 @@
+{
+  "source_record": "参考图片/曲水流饭_定稿_20261022/定稿修订说明与提示词.json",
+  "source_checkout_sha256": "c4670eeeebeb2abbbeb9fe279e70184adc0ba7226698fbcacaddb2fff80d282b",
+  "status": "Selected base revision; later character corrections are separately recorded",
+  "sanitization": "Machine absolute paths replaced with project relative paths or local-reference basenames; prompt text retained.",
+  "record": {
+    "date": "2026-10-22",
+    "scope": "仅本次图片定稿修订；不接管主线程，不改视频或工程引用。",
+    "tool": "built-in image_gen",
+    "user_selected_base": "曲水流饭_作者选定底图.png",
+    "output": "曲水流饭_定稿_大肥鱼Q版站姿_v1.png",
+    "user_request": [
+      "以所附A3图作为定稿底图",
+      "大肥鱼改Q版",
+      "大肥鱼站起来",
+      "其他AI娘形象不变"
+    ],
+    "reference_roles": [
+      {
+        "file": "用户附图",
+        "role": "edit target; preserve composition and all other characters"
+      },
+      {
+        "file": "production/v3/editor/public/lower-half/proud-token-thought-v1.png",
+        "role": "only Bigfish chibi identity and proportions; exclude maid outfit/coins/bubble"
+      }
+    ],
+    "prompt": "请对参考图1做局部定稿修改，不重新设计整幅画。参考图1已被作者选定为正式构图，必须以它为底图。\n\n【唯一改动对象】\n只改变画面左下主戏区中间的蓝发鲸尾主角“大肥鱼”（原来坐着、一手端白饭、一手向右前方伸出邀请的那个人）。把她改成站立的Q版形象。其它五位AI娘，包括左下橙发Claude、右下白发淡紫GPT、左中持扇深蓝紫发Qwen、中上猫耳渐变发Gemini、远处金发黑衣Grok，全部保持原有脸型、头身比例、发型、服饰、坐姿、位置、大小和神情，不得一起变成Q版。\n\n【参考图2的用途】\n参考图2只用于大肥鱼的Q版脸型、蓝眼睛、蓬松蓝长发、鲸鱼鳍耳和大头小身体的可爱比例，约2.5至3头身。不要把参考图2的女仆裙、白围裙、金币、金属盆、气泡边框或装饰搬进画中。\n大肥鱼仍穿参考图1原来的蓝白古风汉服、花饰和袖子纹样，保持鲸尾身份，绘制方式与周围绢本设色古画协调。可爱、俏皮、真挚而略得意，不要变成现代海报、3D塑料人物或扁平贴纸。\n\n【站姿与动作】\n大肥鱼在原来自己的左下草石岸台上真正站起来：双腿支撑身体，两只脚稳稳落在干燥陆地上，长裙下可以清楚看出站立脚位与重心，不能坐着、跪坐、半蹲、漂浮或站进溪水。全身完整，整体仍在原来主角所在区域，维持画面主角体量，不放大到压住其它角色。\n她的一手自然端着原来的白瓷饭碗，里面有白米饭；另一只手向前方宾客伸出、掌心向上，延续深情邀宴、吟诗劝饭的动作。保留两条自然连接肩膀的手臂、两只手，不多臂、不多指、不断手。头部稍抬、带笑意地看向宾客。\n原先坐姿大裙摆占据而现在站姿露出的少量区域，只补回与相邻一致的草坡、石岸纹理，不移动任何其它内容。\n\n【必须严格保留】\n原画16:9横幅、原分辨率、视点、所有溪道转弯和两条岸线、左上小亭与树石、远山、绢本色调和肌理，以及右侧完整大面积低信息诗文留白，均保持原样。\n溪水中现有5只漂流白饭碗全部保持数量、大小和位置不变；大肥鱼手中另有1碗。不要新增或删掉任何人物、饭碗或场景元素。\n只做大肥鱼坐姿长身比例→站姿Q版这一处角色修改，不改变其余AI娘，不改变构图，不增文字、标题、印章或水印。",
+    "visual_check": "已查看生成结果：大肥鱼全身站立、两脚落在左岸，一手端白饭、一手伸掌邀请；其余五位AI娘仍保持原坐姿、角色特征与位置；曲水与右侧留白保留，水中5只饭碗。生成式编辑并非其它区域逐像素完全一致的保证。"
+  }
+}

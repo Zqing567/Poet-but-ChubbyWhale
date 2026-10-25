@@ -1,0 +1,33 @@
+{
+  "composition": "JinToken-Final",
+  "frames": [
+    0,
+    2612
+  ],
+  "fps": 30,
+  "scale": 1,
+  "width": 1280,
+  "height": 720,
+  "inputs": {
+    "audio/full_mix_final_tail3s.wav": "414370aba551389c3e4e5c490514c183e3f1bcfad26da0acb8300f203c152e7e",
+    "fonts/Cubic_11.ttf": "0193f5f033612496df6b45ee92ac3b335bc6a5a24ff95da55ca87b33e57dcf62",
+    "fonts/LXGWWenKaiScreen.ttf": "cd1a6fa39c4ea42fd8f4e289945789b0e510cf7016435640f8893cdad9b220f3",
+    "fonts/fusion-pixel-12px-monospaced-zh_hans.otf": "58836813b4e32027c41d87f598cb2ba7761c73227677f41de13f58f9d870e76e",
+    "lower-half/A48-foreground-cpu-v21.webm": "88394838188318e4f933cf98bc3199816801951cf18f451a541b5106cf3c1e39",
+    "lower-half/B-approved-20261022.png": "4968b5ba7ab5b50e45bf3477fbba8eda32d88c371afe17185b6de0f9ea0ba9ff",
+    "lower-half/granary-4x3-v21.png": "0eeee5bb2a1b39eab9174b25722e0ff209f83f2053e0c26690f350e6a21d7bd8",
+    "lower-half/refill-api-platform-v7.png": "3e2a41f3594d1c8fd306a3b5c0d072e56ebd18306e327a4eda07fbe756f055f2",
+    "lower-half/rice-dream-thought-v1.png": "487d1c010e315194c96d85088abf10121006edc36c77846f2b391ae60a44142d",
+    "lower-half/token-plate-4x3-v21.png": "75b23cb80e0b6fff758cb04078fab39c4b9b4a886af11884741350fbbd92bf8e",
+    "upper-half/empty-basin-reminder-v2-caption.png": "d15e53f7ea5b003c34329f9b6ff53eb446ce4b9d3bd35ceeb8a5d7cb1879549e",
+    "upper-half/gpu-scene-selected.png": "b288abc24903b5aeb8d9a31a373bab6840f2a3d02b214bc7428908b1d1fdaab2",
+    "upper-half/metal-token-v1.png": "bf18a014cafcae8d33294b0eaa55022fc65ef1ea3da392d383fc28af2eb5282f",
+    "upper-half/paper-main-cut.png": "071afe8aac6a63dcd27ab9ade461b37d6421cb80742540bb6bcadd69a6ffcaa7",
+    "upper-half/rice-integrated-v2.png": "0c10e8ea817ced5454646536a9e81af5aca0794718ee51273295f9320ed0ab11",
+    "upper-half/singing-clean-v2.webm": "82c2da82edfc5f4346d34828b9852b20d6dee04c5966856f1151ad1f03d1c869",
+    "upper-half/singing-frame-v2.png": "140865df0fd6653c06bd924d7e85263d7d7e7ffdc5af2314048fff7775bea9bf",
+    "upper-half/thought-dot-large.png": "9c14650fcf98ea912bb5f3539aacc99881499cd6834c2b53b8ed53aace19debc",
+    "upper-half/thought-dot-small.png": "9c14650fcf98ea912bb5f3539aacc99881499cd6834c2b53b8ed53aace19debc"
+  },
+  "outputSha256": "b67089eb2a281b72154139dd99d539db30c489041320860942472fe816c1c9f3"
+}

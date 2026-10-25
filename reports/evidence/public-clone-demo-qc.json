@@ -1,0 +1,35 @@
+{
+  "video_name": "public-clone-demo-full.mp4",
+  "sha256": "b67089eb2a281b72154139dd99d539db30c489041320860942472fe816c1c9f3",
+  "format": {
+    "width": 1280,
+    "height": 720,
+    "fps": "30/1",
+    "frames": 2613,
+    "duration": 87.104,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "color_space": "bt709",
+    "audio_codec": "aac",
+    "audio_rate": "48000",
+    "audio_channels": 2,
+    "audio_bitrate": "317374"
+  },
+  "mode": "public_substitute_demo",
+  "full_decode_exit": 0,
+  "decode_stderr_empty": true,
+  "audio_sync_windows": [],
+  "tail_audio": {
+    "84.1_to_84.8_dbfs": -240.0,
+    "last_20ms_dbfs": -240.0
+  },
+  "tail_motion_half_second_mean_absolute_differences": [
+    12.422259570494864,
+    6.708356676003735,
+    9.362847805788983,
+    11.103632119514472,
+    5.685648926237161
+  ],
+  "limits": "Checks technical synchronization, not artistic recitation quality or redistribution rights; output hash need not match old encoder output.",
+  "technical_pass": true
+}

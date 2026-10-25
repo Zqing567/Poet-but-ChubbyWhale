@@ -1643,7 +1643,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-63BFD77A0840",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/22_final_hold_gemini_20261023/将进token_发布定稿_动态留白3秒_v11.mp4",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1656,7 +1656,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/evidence/container.json",
@@ -1668,7 +1669,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-8B5ADD094E9B",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/24_submission_master_20261023/evidence/container.json",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1681,7 +1682,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/evidence/render_progress.jsonl",
@@ -1693,7 +1695,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-56BCD64058E9",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/24_submission_master_20261023/evidence/render_progress.jsonl",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1706,7 +1708,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/evidence/source_contract.json",
@@ -1718,7 +1721,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-11C34C986E0D",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/24_submission_master_20261023/evidence/source_contract.json",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1731,7 +1734,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/evidence/submission_qc.json",
@@ -1743,7 +1747,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-3BEB7FFE5F58",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/24_submission_master_20261023/evidence/submission_qc.json",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1756,7 +1760,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/evidence/v11_motion_qc.json",
@@ -1768,7 +1773,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-E9B22BF30ED5",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/24_submission_master_20261023/evidence/v11_motion_qc.json",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1781,7 +1786,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/findings.md",
@@ -1793,7 +1799,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-B7412D0A69FB",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/24_submission_master_20261023/findings.md",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1806,7 +1812,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/index.html",
@@ -1818,7 +1825,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-25FB14DD4D55",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/24_submission_master_20261023/index.html",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1831,7 +1838,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/progress.md",
@@ -1843,7 +1851,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-079CFBFA51AA",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/24_submission_master_20261023/progress.md",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1856,7 +1864,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/task_plan.md",
@@ -1868,7 +1877,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-3F86B55B95A5",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/24_submission_master_20261023/task_plan.md",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1881,7 +1890,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/verify_submission.py",
@@ -1893,7 +1903,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-FCFD23B0EF06",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/24_submission_master_20261023/verify_submission.py",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1906,7 +1916,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/将进token_投稿定稿_4K高品质.mp4",
@@ -1918,7 +1929,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-B53AF5B360DC",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/24_submission_master_20261023/将进token_投稿定稿_4K高品质.mp4",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1931,7 +1942,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/25_covers_remote_20261023/covers/将进token_封面_16x9_投稿.png",
@@ -1943,7 +1955,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-77882FCD0DA1",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/25_covers_remote_20261023/covers/将进token_封面_16x9_投稿.png",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1956,7 +1968,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     },
     {
       "source_path": "大肥鱼吟诗/production/v3/25_covers_remote_20261023/covers/将进token_封面_4x3_像素标题.png",
@@ -1968,7 +1981,7 @@
       "note": "Classification is for navigation, not a legal permission decision.",
       "asset_id": "JT-40F6C2C78E2E",
       "path": null,
-      "target_path": null,
+      "target_path": "projects/jin-token/release/withheld/25_covers_remote_20261023/covers/将进token_封面_4x3_像素标题.png",
       "category": "release_delivery",
       "used_in_final": false,
       "story_nodes": [
@@ -1981,7 +1994,8 @@
       "license_evidence": null,
       "distribution": "local_only_pending_review",
       "migration_status": "withheld_pending_rights",
-      "fallback": "Verified official publication link when supplied; do not upload composite media."
+      "fallback": "Verified official publication link when supplied; do not upload composite media.",
+      "target_note": "Proposed location only; file is withheld and no media copied."
     }
   ],
   "runtime_profile": {

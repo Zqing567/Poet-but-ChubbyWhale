@@ -10,7 +10,8 @@ if(missing.length)throw Error('Missing final runtime media:\n'+missing.join('\n'
 const scale=Number(values.scale);if(!Number.isFinite(scale)||scale<=0)throw Error('Invalid --scale');
 let frameRange;
 if(values.frames){frameRange=values.frames.split('-').map(Number);if(frameRange.length!==2||frameRange.some(n=>!Number.isInteger(n))||frameRange[0]<0||frameRange[1]>2612||frameRange[0]>frameRange[1])throw Error('Expected --frames START-END inside 0-2612');}
-const run=path.dirname(out);
+// Each output owns its bundle: concurrent demo/private renders must never replace each other's assets.
+const run=path.join(path.dirname(out),path.basename(out,path.extname(out))+'-work');
 const temp=path.join(run,'render_temp');fs.mkdirSync(temp,{recursive:true});
 process.env.TEMP=temp;process.env.TMP=temp;
 const {bundle}=require('@remotion/bundler');

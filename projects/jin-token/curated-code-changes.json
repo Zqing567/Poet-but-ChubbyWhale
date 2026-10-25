@@ -68,9 +68,9 @@
     {
       "file": "render-submission-4k.cjs",
       "baseline_blob": "ce1758b4cfe4f3a47034106ca9634ac9e6c988b5",
-      "current_blob": "eff435cd3504e5c98e26490e3e68897efb238379",
+      "current_blob": "e4086da71da443b29a711931e10ba01b8c4cbd7e",
       "changed_in_curation": true,
-      "reason": "Portable output/public directory/scale/frame-range, preflight missing media and input/output SHA256 evidence; no dependence on old sibling directory."
+      "reason": "Portable output/public directory/scale/frame-range, preflight missing media and input/output SHA256 evidence; no dependence on old sibling directory. Each output now owns an isolated bundle/temp directory; concurrent private/demo render regression verified."
     },
     {
       "file": "src/APIRepair.tsx",

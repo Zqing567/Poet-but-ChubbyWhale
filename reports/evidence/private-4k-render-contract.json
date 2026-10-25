@@ -1,0 +1,35 @@
+{
+  "composition": "JinToken-Final",
+  "frames": [
+    0,
+    2612
+  ],
+  "fps": 30,
+  "scale": 3,
+  "width": 3840,
+  "height": 2160,
+  "inputs": {
+    "audio/full_mix_final_tail3s.wav": "aa1a5a7d1bbd1adec69358cd1091c8a5ec23b5e3465979e9ebb43ab36b8f5c02",
+    "fonts/Cubic_11.ttf": "0193f5f033612496df6b45ee92ac3b335bc6a5a24ff95da55ca87b33e57dcf62",
+    "fonts/LXGWWenKaiScreen.ttf": "cd1a6fa39c4ea42fd8f4e289945789b0e510cf7016435640f8893cdad9b220f3",
+    "fonts/fusion-pixel-12px-monospaced-zh_hans.otf": "58836813b4e32027c41d87f598cb2ba7761c73227677f41de13f58f9d870e76e",
+    "lower-half/A48-foreground-cpu-v21.webm": "67730fc543058c40a17ae17d5567f463d39882ca38ef82196365af2095828ab8",
+    "lower-half/B-approved-20261022.png": "e65a79cdbdba0d9b8c7d9133903ee1642836e24bdcbe30106f2b2609d55fa26d",
+    "lower-half/granary-4x3-v21.png": "bcca955acdfd49d89d184639d09d2082a86ca94ee3693dd6015585fd1572cabb",
+    "lower-half/refill-api-platform-v7.png": "1b7287e6b23ace086cf92cecdafed1c209f5294d1521ad9a4eadf02a47fc873a",
+    "lower-half/rice-dream-thought-v1.png": "3f610f0a0414b8ec1c97a7d26abe3876825691a29fa305800848071eb91375d6",
+    "lower-half/token-plate-4x3-v21.png": "2ecc30c4ef88d3b20f11f6999b55e37d06360cd4d6ba9e997762e43256d10f11",
+    "upper-half/empty-basin-reminder-v2-caption.png": "4421f5a122517931713577d38b6dbb0a3d5c841bb5f45f32d8dec9d1694b98c0",
+    "upper-half/gpu-scene-selected.png": "a00186d5592b02227556b5fa135f758419af4ed7b7f560466192946e9bbe7d5a",
+    "upper-half/metal-token-v1.png": "3dfeb6bd6856616cc2401485d0a75754ca64469b73b4a9dbb220ff6276366a95",
+    "upper-half/paper-main-cut.png": "e52db15940c3f4a0f37d17a6c7ca766aff8d83d91b25a07d7b78eadaba850281",
+    "upper-half/rice-integrated-v2.png": "449a7bcfd80851dda31b4cab87ae30d03f7bba361a033df66f7ebe65f9151c51",
+    "upper-half/singing-clean-v2.webm": "157b81555f079e8b0e400118af5c09d7a0c8e29083eb418f07312a7ff2b4e81e",
+    "upper-half/singing-frame-v2.png": "81ad26398eab2ffe3941503871a7307bd9803b945e243a60f57a98967eb0e3fa",
+    "upper-half/thought-dot-large.png": "85dbdd8d37fa673746a6502db91827d559d21612daddf9cbcf1cff66b6eaac8b",
+    "upper-half/thought-dot-small.png": "9e2d3a5fef86eb31e829e70e4b31acebf00c2fa57b9a03610040b53f7a6b9af3"
+  },
+  "outputSha256": "200cc831123a83d8b88729138329264595e5aefe62105df686115c78db1fb2fc",
+  "source_original_sha256": "200cc831123a83d8b88729138329264595e5aefe62105df686115c78db1fb2fc",
+  "byte_identical_to_original": true
+}

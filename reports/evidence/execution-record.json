@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-26",
+  "commands": [
+    {
+      "command": "npm ci --no-audit --no-fund",
+      "location": "curation editor",
+      "exit_code": 0,
+      "observation": "468 packages; 49 seconds; retries recovered"
+    },
+    {
+      "command": "npm run lint",
+      "location": "curation editor",
+      "exit_code": 0
+    },
+    {
+      "command": "npm run build",
+      "location": "curation editor",
+      "exit_code": 0
+    },
+    {
+      "command": "python tools/test_migration.py",
+      "location": "curation root",
+      "exit_code": 0,
+      "tests": 3
+    },
+    {
+      "command": "python tools/audit_project.py --strict",
+      "location": "curation root",
+      "exit_code": 2,
+      "expected": "15 withheld final media absent from public; local staging deliberately not counted"
+    },
+    {
+      "command": "npm ci --no-audit --no-fund",
+      "location": "independent public clone editor",
+      "exit_code": 0,
+      "observation": "468 packages; 29 seconds"
+    },
+    {
+      "command": "Playwright CLI open and seek Studio JinToken-Final",
+      "location": "http://localhost:3148/JinToken-Final",
+      "result": "Loaded; 1045-frame SC01 five lines; 2560-frame SC02 seven lines; screenshots inspected; console showed info only"
+    }
+  ],
+  "render_log_location": "Ignored output directories contain render_progress.jsonl and *.render.json",
+  "browser_evidence_location": "Ignored .local-staging/.playwright-cli; snapshots and screenshots retained locally"
+}

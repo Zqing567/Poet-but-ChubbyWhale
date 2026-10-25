@@ -11,6 +11,7 @@ def run(cmd):return subprocess.check_output(cmd)
 def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('video',type=Path);p.add_argument('--audio-reference',type=Path)
+    p.add_argument('--demo',action='store_true',help='Expect generated silence instead of original BGM fade')
     p.add_argument('--ffmpeg',default='ffmpeg');p.add_argument('--ffprobe',default='ffprobe')
     p.add_argument('--report',type=Path,required=True);args=p.parse_args()
     video=args.video
@@ -41,11 +42,13 @@ def main():
     frames=np.frombuffer(raw,dtype=np.uint8).reshape(-1,210,170,3).astype(float)
     differences=[float(np.mean(np.abs(frames[i+1]-frames[i]))) for i in range(len(frames)-1)]
     result={'video_name':video.name,'sha256':hashlib.sha256(video.read_bytes()).hexdigest(),'format':fmt,
+        'mode':'public_substitute_demo' if args.demo else 'private_original_media_reproduction',
         'full_decode_exit':decode.returncode,'decode_stderr_empty':not decode.stderr,
         'audio_sync_windows':windows,'tail_audio':tail_levels,'tail_motion_half_second_mean_absolute_differences':differences,
         'limits':'Checks technical synchronization, not artistic recitation quality or redistribution rights; output hash need not match old encoder output.'}
+    audio_pass=rms(data)<-100 if args.demo else tail_levels['last_20ms_dbfs']<tail_levels['84.1_to_84.8_dbfs']-20
     passed=(decode.returncode==0 and not decode.stderr and fmt['frames']==2613 and fmt['fps']=='30/1' and abs(fmt['duration']-87.1)<.04
-        and min(differences,default=0)>.5 and tail_levels['last_20ms_dbfs']<tail_levels['84.1_to_84.8_dbfs']-20
+        and min(differences,default=0)>.5 and audio_pass
         and (not windows or all(x['correlation_at_zero']>.9999 and x['best_sample_lag']==0 for x in windows)))
     result['technical_pass']=passed
     args.report.parent.mkdir(parents=True,exist_ok=True);args.report.write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

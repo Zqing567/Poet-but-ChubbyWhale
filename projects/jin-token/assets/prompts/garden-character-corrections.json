@@ -1,0 +1,33 @@
+{
+  "source_record": "参考图片/曲水流饭_定稿_20261022/v2_两角色修订与4K实测.json",
+  "source_checkout_sha256": "8a24add28ad0a4f998410790dc3fab183d302679cf5733f01ac34402aaee9fe9",
+  "status": "Later character correction and actual output size record",
+  "sanitization": "Machine absolute paths replaced with project relative paths or local-reference basenames; prompt text retained.",
+  "record": {
+    "date": "2026-10-22",
+    "tool": "built-in image_gen",
+    "output": "曲水流饭_定稿_v2_Gemini与Grok原皮细化.png",
+    "base": "曲水流饭_定稿_大肥鱼Q版站姿_v1.png",
+    "scope": "Only Gemini and Grok identity and palette refinement. No main-thread source/video changes.",
+    "requested_resolution": [
+      3840,
+      2160
+    ],
+    "actual_resolution": [
+      1672,
+      941
+    ],
+    "is_native_4k": false,
+    "main_prompt": "对参考图1进行精确局部人物修订，并请求真正的高清4K成品：输出目标3840×2160像素、16:9横幅、最高可用细节。请提高人物线条、发丝、衣纹与绢本纹理的细节解析，保持古画淡设色质感，不做油亮锐化、塑料磨皮或噪点。不要改变画幅、裁切、镜头、构图或色调。此次只有两个人物允许重新细化，其他内容必须原样保留。\n\n输入角色：\n- 参考图1：唯一编辑目标——已选定的曲水流饭底图，大肥鱼已是蓝白汉服Q版站姿。\n- 参考图2：Gemini原皮外形和准确配色参考。\n- 参考图3：Grok原皮外形和准确配色参考。\n\n编辑区域一【Gemini，不是右下角的GPT】：\n要修改的是画面中上偏左、位于溪流右岸、约原1672×941图的(x780–1035,y205–410)范围那位原先颜色很浅的猫耳女孩。保持她原有坐姿、全身大小、位置、头部角度和听诗动作。\n她必须明确变回参考图2的Gemini，绝不能再和右下方白发淡紫衣GPT混同：\n1. 头发主色是清晰的蓝紫色，从蓝/靛紫自然渐变到紫罗兰与粉紫，带少量浅青挑色；不是银白发、白紫发或GPT同款的极浅发色。\n2. 明确的猫耳、柔软蓬松猫尾，猫尾同样蓝紫粉渐变，不能出现龙角或有鳞片的龙尾。\n3. 保留原皮一只玫红/洋红眼、一只金黄眼的异色瞳，发边有金色包边的蓝紫粉多色星形饰物，配小巧四色四芒星挂饰。\n4. 服装可以转译为古风广袖/交领裙，但主色必须忠于原皮：深靛蓝和紫罗兰作外袍、白色作内衬与局部拼接、细金边、粉紫渐变裙带，四色星饰点缀。要看得出是蓝紫系Gemini，不要再做成通身白色、淡粉白、浅紫白的GPT配色。\n5. 保持非Q版的既有人物比例，与其它宾客相同，仍坐在原岸边；不要让她站起来或挪到近景。\n\n编辑区域二【Grok】：\n要修改的是最上方较远处的金发黑衣女孩，约原1672×941图(x610–785,y65–178)范围，保持原坐姿、人物高度和位置，仍是远景宾客。\n依照参考图3加强身份：\n1. 浅金色长双马尾，黑色蝴蝶结，尖耳，明亮蓝眼；黑金小冠/金纹发饰，耳侧或背后有小型黑色蝠翼特征。\n2. 古风服装仍以深黑/炭黑为绝对主色，金色细纹与边饰，酒红/暗红内襟和裙摆内层、少量白色内袖，忠实原皮黑金配酒红而不是泛黄棕裙。\n3. 可把原皮X形元素转成小巧的金纹或发冠装饰，保持整体古风。不要加入巨大斧头、旗帜、战斗场景或抢戏道具。\n4. 神情带点机灵自信，仍然坐着参与雅集，不能把她画成普通金发汉服路人或大头Q版。\n\n【严格不可改动的区域】\n蓝发Q版站立大肥鱼必须完整保留：脸、头身比、蓝白汉服、鲸尾、站姿、两脚位置、一手饭碗、一手邀请动作，全部不改。\n左下橙发Claude、右下白发淡紫GPT、左中持扇深蓝紫Qwen，三人的外形、衣服配色、五官、比例、坐姿、位置和大小全部不改。\n所有溪流、两条岸线、山石、花草、左上亭子和树木、远山、纸绢底色与右侧大面积留白完全保留。水中原有5只白饭碗的位置、数量、大小不变，主角手里那1碗不变。不增删人物或任何场景元素。\n只在Gemini和Grok自身区域改善身份、配色、五官和服装细节，不重画整幅画；4K应体现更清楚的线条与原有细节，而不是改画面内容。保持全图原有古画绢本/淡设色气质，禁止新增文字、标题、印章、水印或边框。",
+    "resolution_retry": {
+      "prompt": "这是一次纯粹的高清超分辨率输出任务，不是重画、变体或重新构图。请把输入的已完成画作输出为真正的3840×2160像素（4K UHD）、16:9高分辨率图像，使用最高可用输出尺寸。原图只有1672×941，请不要再次返回相同的小尺寸。保持所有像素内容的空间关系、所有角色身份、服装和姿势不变，仅改善分辨率、细线、发丝、衣纹和绢本纹理的清晰度，不重新发明细节或改变画面。\n特别锁定：Gemini现在是蓝紫粉渐变发、猫耳猫尾、异色瞳与四色星饰、深靛蓝紫罗兰配白金古风衣；Grok是金发双马尾、黑金配酒红古风衣、蓝眼、尖耳小蝠翼。它们已经修订，不要改回浅色GPT外观。\n大肥鱼Q版站姿端饭邀宴、Claude、GPT、Qwen全部原样，背景山水、亭子、树石、5只水上饭碗和主角手中1碗、右侧留白全部原样。无新增文字、印章、边框、水印。不加新内容，不移动任何人物，不改变色调，不做夸张锐化或塑料平滑。只交付这一张已定稿作品的4K清晰度版本。",
+      "actual_resolution": [
+        1672,
+        941
+      ],
+      "adopted": false,
+      "reason": "Still below requested 4K and increased global contrast; retain localized first revision."
+    },
+    "review": "Gemini now has distinct blue-purple/pink hair and fluffy cat tail, multicolor star identity; Grok has blonde twin tails, blue eyes, black/gold and burgundy robe, pointed ears and small bat-wing features. Other four characters, standing chibi Bigfish, narrow creek, five floating bowls and right blank area visually preserved. Generative edit is not a pixel-exact invariance guarantee. 4K remains unmet; no fake 4K label or deterministic upscale applied."
+  }
+}

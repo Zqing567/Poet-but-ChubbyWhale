@@ -21,7 +21,7 @@ def main():
         if file.is_file():
             target=dest/file.relative_to(licenses)
             target.parent.mkdir(parents=True,exist_ok=True)
-            target.write_text(file.read_text(encoding='utf-8-sig'),encoding='utf-8')
+            target.write_text('\n'.join(line.rstrip() for line in file.read_text(encoding='utf-8-sig').splitlines())+'\n',encoding='utf-8')
     names={
         'Cubic_11.ttf':('ACh and Cubic 11 Project Authors; included upstream contributors','Cubic_11-LICENSE.txt','Cubic redistribution permission with bundled upstream notices'),
         'LXGWWenKaiScreen.ttf':('LXGW; The Klee Project Authors','LXGWWenKaiScreen-LICENSE.txt','SIL-OFL-1.1'),
