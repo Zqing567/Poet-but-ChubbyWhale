@@ -3,9 +3,11 @@ import hashlib
 import json
 import re
 import subprocess
+import sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 def main():
+    sys.stdout.reconfigure(encoding='utf-8')
     names=[x for x in subprocess.check_output(['git','-C',str(ROOT),'ls-files','-z']).decode().split('\0') if x]
     assets=ROOT/'projects/jin-token/assets'
     approved={}
@@ -30,6 +32,7 @@ def main():
             except UnicodeDecodeError:
                 findings.append({'path':name,'problem':'Unexpected non-UTF8 tracked file'});continue
             scanned+=1
+            if '\uFFFD' in text:findings.append({'path':name,'problem':'Unicode replacement character in tracked text; verify encoding'})
             if secrets.search(text):findings.append({'path':name,'problem':'Possible credential pattern; inspect locally (value suppressed)'})
         if any(part in name for part in ['.local-staging/','node_modules/','.env','model-cache/']):
             findings.append({'path':name,'problem':'Private/cache path tracked'})

@@ -31,4 +31,4 @@
 
 ## 成果导航
 
-[整理分支](https://github.com/Zqing567/Poet-but-ChubbyWhale/tree/codex/jin-token-curation) · [P0](00_baseline.md) · [P1](01_inventory.md) · [QC](02_build_and_qc.md) · [七项经验](../projects/jin-token/docs/LESSONS_WITH_EVIDENCE.md) · [运行步骤](../projects/jin-token/editor/README.md)。远端提交核验在最终推送完成后追加，不提前声称已推送。
+[整理分支](https://github.com/Zqing567/Poet-but-ChubbyWhale/tree/codex/jin-token-curation) · [P0](00_baseline.md) · [P1](01_inventory.md) · [QC](02_build_and_qc.md) · [七项经验](../projects/jin-token/docs/LESSONS_WITH_EVIDENCE.md) · [运行步骤](../projects/jin-token/editor/README.md)。已推送并以git ls-remote核验整理提交[ a09f3a8 ](https://github.com/Zqing567/Poet-but-ChubbyWhale/commit/a09f3a821c8d6f77445d84e501d98d3c33592feb)。main仍为dcc230c、交接分支仍为802d8e0；未合并。后续仅文档/证据收尾提交继续留在同一整理分支。
