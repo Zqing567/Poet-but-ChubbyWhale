@@ -36,3 +36,13 @@ projects/**/release/**/*.mp4
 .worktrees/
 .local-staging/
 migration_reports/
+
+# Reviewed font binaries: accompanying per-font notices are in assets/licenses/fonts.
+!projects/jin-token/editor/public/fonts/Cubic_11.ttf
+!projects/jin-token/editor/public/fonts/LXGWWenKaiScreen.ttf
+!projects/jin-token/editor/public/fonts/fusion-pixel-12px-monospaced-zh_hans.otf
+!projects/jin-token/editor/public/fonts/fusion-pixel-12px-monospaced-latin.otf
+
+projects/jin-token/release/outputs/
+
+projects/jin-token/editor/build/

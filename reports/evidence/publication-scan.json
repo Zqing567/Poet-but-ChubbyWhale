@@ -1,0 +1,39 @@
+{
+  "tracked_files": 95,
+  "text_scanned": 89,
+  "public_binary_count": 6,
+  "binaries": [
+    {
+      "path": "projects/jin-token/assets/characters/final/诗人大肥鱼2.png",
+      "bytes": 2251388,
+      "approved_hash_and_evidence": true
+    },
+    {
+      "path": "projects/jin-token/assets/characters/final/诗人大肥鱼形象三视图.png",
+      "bytes": 2486809,
+      "approved_hash_and_evidence": true
+    },
+    {
+      "path": "projects/jin-token/editor/public/fonts/Cubic_11.ttf",
+      "bytes": 2773732,
+      "approved_hash_and_evidence": true
+    },
+    {
+      "path": "projects/jin-token/editor/public/fonts/LXGWWenKaiScreen.ttf",
+      "bytes": 25673994,
+      "approved_hash_and_evidence": true
+    },
+    {
+      "path": "projects/jin-token/editor/public/fonts/fusion-pixel-12px-monospaced-latin.otf",
+      "bytes": 4928652,
+      "approved_hash_and_evidence": true
+    },
+    {
+      "path": "projects/jin-token/editor/public/fonts/fusion-pixel-12px-monospaced-zh_hans.otf",
+      "bytes": 4945388,
+      "approved_hash_and_evidence": true
+    }
+  ],
+  "findings": [],
+  "limits": "Pattern scan is not an exhaustive secret detector; source and history need separate review. Only manifests with scoped evidence authorize media."
+}

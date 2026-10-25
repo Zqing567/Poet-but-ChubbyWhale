@@ -3,7 +3,7 @@
   "source_commit": "0357d1b7965c8bdb606a7fc45e75d9f4e3619897",
   "source_project": "大肥鱼吟诗/production/v3/editor/",
   "destination": "projects/jin-token/editor/",
-  "status": "curated_code_and_machine_path_sanitization",
+  "status": "baseline_retained_with_reviewed_curation_deltas",
   "published_code_and_config_count": 29,
   "copy_notes": "Two machine-specific paths were converted to portable relative references: src/upper-half.json (sourceSingingVideo) and public/upper-half/clean-motion.json (source/output). Other migrated files preserve upstream bytes.",
   "files": [
@@ -210,5 +210,6 @@
       "bytes": 419,
       "changed": false
     }
-  ]
+  ],
+  "current_delta_record": "curated-code-changes.json"
 }

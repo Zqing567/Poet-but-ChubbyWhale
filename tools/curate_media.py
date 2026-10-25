@@ -20,7 +20,7 @@ def git_blob_sha(raw: bytes) -> str:
 
 def safe_path(base: Path, relative: str) -> Path:
     p = PurePosixPath(relative)
-    if p.is_absolute() or ".." in p.parts or not p.parts:
+    if p.is_absolute() or ".." in p.parts or not p.parts or '\\' in relative or ':' in relative:
         raise ValueError(f"Unsafe relative path: {relative!r}")
     result = base.joinpath(*p.parts)
     if not result.resolve().is_relative_to(base.resolve()):
@@ -52,7 +52,7 @@ def main() -> int:
     data = load_json(args.manifest)
     approval_data = load_json(args.approvals)
     approvals = approval_data.get("assets", {})
-    known = {a["path"]: a for a in data["assets"]}
+    known = {a["path"]: a for a in data["assets"] if a.get('path')}
     if any(key not in known for key in approvals):
         parser.error("Approval file refers to a path absent from source manifest.")
 
@@ -63,7 +63,7 @@ def main() -> int:
             results.append({"path": rel, "status": "skipped_unapproved"})
             continue
         required = ("rights_holder", "license_or_permission", "evidence", "reviewed_by")
-        missing = [k for k in required if not str(review.get(k, "")).strip()]
+        missing = [k for k in required if not isinstance(review.get(k), str) or not review[k].strip()]
         if missing:
             errors.append(f"{rel}: missing approval evidence fields: {missing}")
             continue

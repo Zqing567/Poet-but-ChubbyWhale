@@ -7,6 +7,7 @@ import upperTiming from './upper-half.json';
 import {FullReview} from './FullReview';
 import {LowerHalf,PoetryGarden,GardenGeminiReference} from './LowerHalf';
 export const Root:React.FC=()=> <>
+ <Composition id="JinToken-Final" component={FullReview} durationInFrames={2613} fps={30} width={1280} height={720} defaultProps={{audio:true,audioSource:'audio/full_mix_final_tail3s.wav'}}/>
  <Folder name="Current-review">
   <Composition id="Lower-final" component={LowerHalf} durationInFrames={upperTiming.totalFrames-upperTiming.sceneEndFrames} fps={30} width={1280} height={720} defaultProps={{audio:true}}/>
   <Still id="Garden-background" component={PoetryGarden} width={1280} height={720}/>

@@ -1,0 +1,176 @@
+[
+  {
+    "file": "eslint.config.mjs",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "matte-a48-cpu-v21.mjs",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "matte-a48-v21.mjs",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "package-lock.json",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "package.json",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "public/lower-half/bowl-bounds.json",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "public/lower-half/character-bounds.json",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "public/upper-half/clean-motion.json",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": true
+  },
+  {
+    "file": "remotion.config.ts",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "render-submission-4k.cjs",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/APIRepair.tsx",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/CaptionStudy.tsx",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/Fonts.ts",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/FullReview.tsx",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/GpuBackdrop.tsx",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/LowerHalf.tsx",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/Root.tsx",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/UpperHalf.tsx",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/api-repair-entry.tsx",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/api-repair.json",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/caption-model.d.mts",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/caption-model.mjs",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/captions.json",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/cue-model.ts",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/index.ts",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/line-widths.json",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/selected-layout.json",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  },
+  {
+    "file": "src/upper-half.json",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": true
+  },
+  {
+    "file": "tsconfig.json",
+    "source_blob_matches_record": true,
+    "target_blob_matches_record": true,
+    "sanitized_at_baseline": false
+  }
+]

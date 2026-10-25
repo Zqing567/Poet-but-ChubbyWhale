@@ -5,13 +5,13 @@ import {spawn,execFileSync} from 'node:child_process';
 import {access,writeFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {once} from 'node:events';
-const ff='H:/Anaconda/Library/bin/ffmpeg.exe';
+const ff=process.env.FFMPEG_PATH||'ffmpeg';
 const source=resolve('public/lower-half/A48-token-original.gif');
 const out=resolve('public/lower-half/A48-foreground-cpu-v21.webm');
 let exists=false;try{await access(out);exists=true}catch{}
 if(exists)throw Error('Output exists; inspect it before another run.');
 env.allowRemoteModels=false;env.useBrowserCache=false;
-const modelPath=resolve('../21_bubble_adaptation_editor_20261022/model-cache/modnet-v1');
+const modelPath=resolve(process.env.MODNET_MODEL_PATH||'.cache/models/modnet-v1');
 console.log('Loading local CPU MODNet');
 const remove=await pipeline('background-removal',modelPath,{device:'cpu',dtype:'fp32',local_files_only:true});
 const w=300,h=370,size=w*h*4;

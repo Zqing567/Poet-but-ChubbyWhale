@@ -4,6 +4,8 @@
 
 首个归档项目：[《将进 token》](projects/jin-token/README.md)。
 
+2026-10-26 整理成果：[最终大肥鱼优化图与署名](projects/jin-token/assets/CHARACTER_RIGHTS.md) · [六角色完整生成提示词](projects/jin-token/assets/prompts/scene2-turnarounds.json) · [公开演示/本地复现步骤](projects/jin-token/editor/README.md) · [实际构建QC](reports/02_build_and_qc.md)。
+
 ## 从这里开始
 
 | 我想做什么 | 入口 |
@@ -13,7 +15,7 @@
 | 学习海崖、曲水、字幕、声音和动效的经验 | [创作经验](projects/jin-token/docs/EXPERIENCE.md) |
 | 了解为什么按三层来组织工程 | [组织方法](docs/STRUCTURE.md) |
 | 从原私有项目继续迁移资产 | [迁移与 worktree](docs/MIGRATION.md) |
-| 检查媒体文件与来源 | [70 项媒体依赖索引](projects/jin-token/assets/asset-manifest.json) |
+| 检查媒体文件与来源 | [运行/交付资产索引](projects/jin-token/assets/asset-manifest.json)及[新增图索引](projects/jin-token/assets/post-freeze-manifest.json) |
 | 查看版权与公开范围 | [素材和授权政策](docs/ASSET_POLICY.md) |
 
 ## 首期归档状态
@@ -24,8 +26,8 @@
 | 正式 Remotion v11 核心文本源码及配置 | 已迁入 29 个文件，来源和 Git blob SHA 已登记 |
 | 角色/海崖/曲水/表情/字幕/音频/合成/验收方法 | 已按模块说明 |
 | 正式投稿信息 | 已根据私有源的验收记录归档：4K、30fps、87.1秒 |
-| 图片/音频/表情/透明动画/字体等二进制运行依赖 | **70项源清单已登记，需逐项授权核查后迁入** |
-| 本公开仓库独立完整渲染 | **尚未通过，缺媒体文件** |
+| 图片/音频/表情/透明动画/字体等二进制运行依赖 | 正式片19项；4字体已带许可迁入，原图/音轨等仍按项审核 |
+| 复现路径 | 公开几何占位演示与本地合法素材重渲染分开，实际验证见QC报告；公开下载仍缺原片媒体 |
 | 代码的开放许可证 | **待作者确认，原工程 package.json 标为 UNLICENSED** |
 
 因此这是一个**公开可读、已整理核心源码与方法、仍在媒体迁移收口中的工程仓库**，当前不能宣称“克隆即完整复现”。旧私人源项目保留不动。

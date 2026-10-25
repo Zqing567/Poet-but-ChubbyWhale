@@ -25,9 +25,11 @@ def main() -> int:
     ]
     missing_code = [p for p in expected_code if not (editor / p).is_file()]
     manifest = json.loads((project / "assets/asset-manifest.json").read_text(encoding="utf-8"))
-    media = [a for a in manifest["assets"] if a["category"] != "metadata_only"]
+    media = [a for a in manifest["assets"] if a.get("path") and a["category"] != "metadata_only"]
+    runtime = [a for a in media if a.get('used_in_final')]
     present = [a["path"] for a in media if (editor / "public" / a["path"]).is_file()]
     missing_media = [a["path"] for a in media if not (editor / "public" / a["path"]).is_file()]
+    missing_runtime = [a['path'] for a in runtime if not (editor/'public'/a['path']).is_file()]
     suspicious = []
     secrets = re.compile(r"sk-[a-zA-Z0-9]{20,}|Bearer\s+[a-zA-Z0-9._-]{20,}|AIza[0-9A-Za-z_-]{25,}")
     for base in (editor / "src",):
@@ -50,13 +52,14 @@ def main() -> int:
         "project": "jin-token", "mode": "strict" if args.strict else "source_archive",
         "code_files_missing": missing_code, "media_manifest_total": len(media),
         "media_present": len(present), "media_missing": len(missing_media),
+        "final_runtime_total":len(runtime), "final_runtime_missing": missing_runtime,
         "media_missing_names": missing_media,
         "possible_secret_patterns": suspicious, "poem_errors": bad_text,
-        "runnable_media_complete": not missing_media,
+        "runnable_media_complete": not missing_runtime,
         "remark": "Static source checks do not prove npm build, video render or legal redistribution."
     }
     print(json.dumps(report, indent=2, ensure_ascii=False))
-    failed = bool(missing_code or suspicious or bad_text or (args.strict and missing_media))
+    failed = bool(missing_code or suspicious or bad_text or (args.strict and missing_runtime))
     return 2 if failed else 0
 
 

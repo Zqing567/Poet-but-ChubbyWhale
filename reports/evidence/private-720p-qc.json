@@ -1,0 +1,71 @@
+{
+  "video_name": "private-final-720p.mp4",
+  "sha256": "962ca9eacabfba1c8c41693c28e1cefdbc1bcf2e63d8bfd64a81fb0e0c25abf6",
+  "format": {
+    "width": 1280,
+    "height": 720,
+    "fps": "30/1",
+    "frames": 2613,
+    "duration": 87.104,
+    "video_codec": "h264",
+    "pixel_format": "yuv420p",
+    "color_space": "bt709",
+    "audio_codec": "aac",
+    "audio_rate": "48000",
+    "audio_channels": 2,
+    "audio_bitrate": "317375"
+  },
+  "full_decode_exit": 0,
+  "decode_stderr_empty": true,
+  "audio_sync_windows": [
+    {
+      "start_seconds": 3.5,
+      "duration_seconds": 1,
+      "correlation_at_zero": 0.999978648146292,
+      "best_sample_lag": 0
+    },
+    {
+      "start_seconds": 12,
+      "duration_seconds": 1,
+      "correlation_at_zero": 0.9999650295840713,
+      "best_sample_lag": 0
+    },
+    {
+      "start_seconds": 24,
+      "duration_seconds": 1,
+      "correlation_at_zero": 0.9999399247120767,
+      "best_sample_lag": 0
+    },
+    {
+      "start_seconds": 47,
+      "duration_seconds": 1,
+      "correlation_at_zero": 0.9999212986715759,
+      "best_sample_lag": 0
+    },
+    {
+      "start_seconds": 60,
+      "duration_seconds": 1,
+      "correlation_at_zero": 0.999984317912577,
+      "best_sample_lag": 0
+    },
+    {
+      "start_seconds": 82,
+      "duration_seconds": 1,
+      "correlation_at_zero": 0.9999638990603977,
+      "best_sample_lag": 0
+    }
+  ],
+  "tail_audio": {
+    "84.1_to_84.8_dbfs": -26.63403718065945,
+    "last_20ms_dbfs": -71.18121113093737
+  },
+  "tail_motion_half_second_mean_absolute_differences": [
+    12.432147525676937,
+    6.7027544351073765,
+    9.37154995331466,
+    11.109607843137255,
+    5.691503267973856
+  ],
+  "limits": "Checks technical synchronization, not artistic recitation quality or redistribution rights; output hash need not match old encoder output.",
+  "technical_pass": true
+}

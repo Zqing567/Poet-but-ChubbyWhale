@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "1.1.0",
   "source": {
     "repository": "Zqing567/AI-CookUp",
     "visibility": "private",
@@ -18,7 +18,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-4C4DECD127B9",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/art/A-selected.png",
+      "target_path": "projects/jin-token/editor/public/art/A-selected.png",
+      "sha256": "7575c379b1eb42d6dc1146f73e70ffbe1fd36f7ddc769a4f7dd9095d5dc848ec",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "art/A1.png",
@@ -28,7 +41,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-635F882AA03F",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/art/A1.png",
+      "target_path": "projects/jin-token/editor/public/art/A1.png",
+      "sha256": "08875e3e4f5e75aa3ff3a37ff2969c6bc27105514fa346ac9a05482bf2bbd643",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "art/A2-base.png",
@@ -38,7 +64,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-EFCF657B0E52",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/art/A2-base.png",
+      "target_path": "projects/jin-token/editor/public/art/A2-base.png",
+      "sha256": "e91e9493d4dbf9a0fb44b347da23be94987915eb416841da577ebe132f6c14e8",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "art/A2-classic-sprite.png",
@@ -48,7 +87,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-FA00E51F55B6",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/art/A2-classic-sprite.png",
+      "target_path": "projects/jin-token/editor/public/art/A2-classic-sprite.png",
+      "sha256": "e6f8f6d99a169cc392aa859b15bcba78843322d21e4eb3cc3e34c8edab12d988",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "art/A2-poet-sprite.png",
@@ -58,7 +110,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-8DC409077984",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/art/A2-poet-sprite.png",
+      "target_path": "projects/jin-token/editor/public/art/A2-poet-sprite.png",
+      "sha256": "ad87658155aa238ea915d67bd27ee6b03b89302d792787f41257f7ba76c5854f",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "art/A3.png",
@@ -68,7 +133,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-E61E080CAF83",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/art/A3.png",
+      "target_path": "projects/jin-token/editor/public/art/A3.png",
+      "sha256": "0a8e56fea61d460fa6a5dc46d8f7dcf8d34dacd9bcb273313a957ff577d31287",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "art/B1.png",
@@ -78,7 +156,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-411D78A3BD2D",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/art/B1.png",
+      "target_path": "projects/jin-token/editor/public/art/B1.png",
+      "sha256": "79bf16a39e455ee532054f7e81d06975c88561c51e7625b2c89d318b603106f3",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "art/B2.png",
@@ -88,7 +179,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-8605792ECA35",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/art/B2.png",
+      "target_path": "projects/jin-token/editor/public/art/B2.png",
+      "sha256": "d499d37cc383a8235c9c4ad5eaeb9db0a60b072d754f3a5e76bab3bb33f07b8a",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "audio/full_mix_final_tail3s.wav",
@@ -98,7 +202,21 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-6752FE8F1BA3",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/audio/full_mix_final_tail3s.wav",
+      "target_path": "projects/jin-token/editor/public/audio/full_mix_final_tail3s.wav",
+      "sha256": "aa1a5a7d1bbd1adec69358cd1091c8a5ec23b5e3465979e9ebb43ab36b8f5c02",
+      "used_in_final": true,
+      "story_nodes": [
+        "L01-L12",
+        "END"
+      ],
+      "usage": "FullReview: final master audio",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "audio/full_mix_v07.wav",
@@ -108,47 +226,120 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-A70BDA682C05",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/audio/full_mix_v07.wav",
+      "target_path": "projects/jin-token/editor/public/audio/full_mix_v07.wav",
+      "sha256": "fb91ead1b84808459b26838c48a07dcf3167529c7006b344be906802da3e0375",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "fonts/Cubic_11.ttf",
       "size_bytes": 2773732,
       "source_git_blob": "48b3411ce6f6f54db45b6125d108b574ebdc973e",
       "category": "font_license_check",
-      "license_status": "pending",
-      "publish_approved": false,
-      "license_evidence": null,
-      "notes": null
+      "license_status": "redistributable_under_bundled_license",
+      "publish_approved": true,
+      "license_evidence": "projects/jin-token/assets/licenses/fonts/Cubic_11-LICENSE.txt",
+      "notes": null,
+      "asset_id": "JT-B533D9472F3F",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/fonts/Cubic_11.ttf",
+      "target_path": "projects/jin-token/editor/public/fonts/Cubic_11.ttf",
+      "sha256": "0193f5f033612496df6b45ee92ac3b335bc6a5a24ff95da55ca87b33e57dcf62",
+      "used_in_final": true,
+      "story_nodes": [
+        "ALL"
+      ],
+      "usage": "Fonts: eagerly loaded workshop alternative",
+      "rights_holder": "ACh and Cubic 11 Project Authors; included upstream contributors",
+      "migration_status": "copied_hash_verified",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "public_with_notices",
+      "license_or_permission": "Cubic redistribution permission with bundled upstream notices",
+      "review_basis": "Embedded font name/copyright/license metadata inspected against frozen accompanying license texts; no author license override."
     },
     {
       "path": "fonts/LXGWWenKaiScreen.ttf",
       "size_bytes": 25673994,
       "source_git_blob": "f204e907b8b9a2f4dda18623f6371c485abe2066",
       "category": "font_license_check",
-      "license_status": "pending",
-      "publish_approved": false,
-      "license_evidence": null,
-      "notes": null
+      "license_status": "redistributable_under_bundled_license",
+      "publish_approved": true,
+      "license_evidence": "projects/jin-token/assets/licenses/fonts/LXGWWenKaiScreen-LICENSE.txt",
+      "notes": null,
+      "asset_id": "JT-8522A3826A93",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/fonts/LXGWWenKaiScreen.ttf",
+      "target_path": "projects/jin-token/editor/public/fonts/LXGWWenKaiScreen.ttf",
+      "sha256": "cd1a6fa39c4ea42fd8f4e289945789b0e510cf7016435640f8893cdad9b220f3",
+      "used_in_final": true,
+      "story_nodes": [
+        "ALL"
+      ],
+      "usage": "Fonts: eagerly loaded workshop alternative",
+      "rights_holder": "LXGW; The Klee Project Authors",
+      "migration_status": "copied_hash_verified",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "public_with_notices",
+      "license_or_permission": "SIL-OFL-1.1",
+      "review_basis": "Embedded font name/copyright/license metadata inspected against frozen accompanying license texts; no author license override."
     },
     {
       "path": "fonts/fusion-pixel-12px-monospaced-latin.otf",
       "size_bytes": 4928652,
       "source_git_blob": "c5b5ca08cd514fd31deb77c4e76ffb99acca7213",
       "category": "font_license_check",
-      "license_status": "pending",
-      "publish_approved": false,
-      "license_evidence": null,
-      "notes": null
+      "license_status": "redistributable_under_bundled_license",
+      "publish_approved": true,
+      "license_evidence": "projects/jin-token/assets/licenses/fonts/fusion-pixel-OFL-1.1.txt",
+      "notes": null,
+      "asset_id": "JT-AE8DF52ECB35",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/fonts/fusion-pixel-12px-monospaced-latin.otf",
+      "target_path": "projects/jin-token/editor/public/fonts/fusion-pixel-12px-monospaced-latin.otf",
+      "sha256": "d48931d0f47d1ffaba5d6965e2de6a65c0683948faba640d8f2d393a9577d58b",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "TakWolf; included component authors",
+      "migration_status": "copied_hash_verified",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "public_with_notices",
+      "license_or_permission": "SIL-OFL-1.1 with component notices",
+      "review_basis": "Embedded font name/copyright/license metadata inspected against frozen accompanying license texts; no author license override."
     },
     {
       "path": "fonts/fusion-pixel-12px-monospaced-zh_hans.otf",
       "size_bytes": 4945388,
       "source_git_blob": "28414b0fe697824dd677902afe703a19d2906c1f",
       "category": "font_license_check",
-      "license_status": "pending",
-      "publish_approved": false,
-      "license_evidence": null,
-      "notes": null
+      "license_status": "redistributable_under_bundled_license",
+      "publish_approved": true,
+      "license_evidence": "projects/jin-token/assets/licenses/fonts/fusion-pixel-OFL-1.1.txt",
+      "notes": null,
+      "asset_id": "JT-DC28E3B4F13F",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/fonts/fusion-pixel-12px-monospaced-zh_hans.otf",
+      "target_path": "projects/jin-token/editor/public/fonts/fusion-pixel-12px-monospaced-zh_hans.otf",
+      "sha256": "58836813b4e32027c41d87f598cb2ba7761c73227677f41de13f58f9d870e76e",
+      "used_in_final": true,
+      "story_nodes": [
+        "L01-L12"
+      ],
+      "usage": "Poem: selected F1 font",
+      "rights_holder": "TakWolf; included component authors",
+      "migration_status": "copied_hash_verified",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "public_with_notices",
+      "license_or_permission": "SIL-OFL-1.1 with component notices",
+      "review_basis": "Embedded font name/copyright/license metadata inspected against frozen accompanying license texts; no author license override."
     },
     {
       "path": "lower-half/A48-foreground-cpu-v21.webm",
@@ -158,7 +349,21 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-FAB9E85BC4A3",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/A48-foreground-cpu-v21.webm",
+      "target_path": "projects/jin-token/editor/public/lower-half/A48-foreground-cpu-v21.webm",
+      "sha256": "67730fc543058c40a17ae17d5567f463d39882ca38ef82196365af2095828ab8",
+      "used_in_final": true,
+      "story_nodes": [
+        "L12",
+        "END"
+      ],
+      "usage": "LowerThought 151-frame Loop",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/A48-motion-source-v21.mp4",
@@ -168,7 +373,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-D787CF881B4B",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/A48-motion-source-v21.mp4",
+      "target_path": "projects/jin-token/editor/public/lower-half/A48-motion-source-v21.mp4",
+      "sha256": "1ed184ad09b2c9ce59881f69ff8fd5b678ee56ca346e00d39f7af2e51acdf3b2",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/A48-token-original.gif",
@@ -178,7 +396,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-1C19C65C7DCD",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/A48-token-original.gif",
+      "target_path": "projects/jin-token/editor/public/lower-half/A48-token-original.gif",
+      "sha256": "7e7546f338008b087c4ad56d0ecdda5c91a21c90c67439ac522db5a2284a69da",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/B-approved-20261022.png",
@@ -188,7 +419,21 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-93B291716E4D",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/B-approved-20261022.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/B-approved-20261022.png",
+      "sha256": "e65a79cdbdba0d9b8c7d9133903ee1642836e24bdcbe30106f2b2609d55fa26d",
+      "used_in_final": true,
+      "story_nodes": [
+        "L06-L12",
+        "END"
+      ],
+      "usage": "PoetryGarden",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/B-grand-river-v1.png",
@@ -198,7 +443,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-8045A52A200E",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/B-grand-river-v1.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/B-grand-river-v1.png",
+      "sha256": "9b7706c6e10d655faeeb995f8e10f25cba2635f9899adf980cb55446000b0bb0",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/B-ink-sixcast-legible-v7.png",
@@ -208,7 +466,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-75D2B5773DBC",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/B-ink-sixcast-legible-v7.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/B-ink-sixcast-legible-v7.png",
+      "sha256": "e37d8926532dcc46e53f779ad68f5f6b86b2d517c192f5377b1b6ec454749e34",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/B-ink-sixcast-selected-v6.png",
@@ -218,7 +489,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-5994E9349864",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/B-ink-sixcast-selected-v6.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/B-ink-sixcast-selected-v6.png",
+      "sha256": "a1ba611d8cb69dffb616a4aba10cbeee46b040d295cfa3fa0183e55b7b6b08db",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/B-poetry-clean-v2.png",
@@ -228,7 +512,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-510E256B5DB9",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/B-poetry-clean-v2.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/B-poetry-clean-v2.png",
+      "sha256": "171a36af8b4b3aee0966219e868df936312d62af8eb54bb2f7de58a24589523b",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/api-repair-v6-plate.png",
@@ -238,7 +535,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-F9D727CCCC1A",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/api-repair-v6-plate.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/api-repair-v6-plate.png",
+      "sha256": "496abfb7af1827363863ba476f605e2b01f0abe3e8d7d82135f2537ec4c92435",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/api-repair-v7-plate.png",
@@ -248,7 +558,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-422B2FC38975",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/api-repair-v7-plate.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/api-repair-v7-plate.png",
+      "sha256": "a04bf807f607289d45adad272d280cf68035f81c089635f1b9341e8e09a02522",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/bowl-bounds.json",
@@ -258,7 +581,19 @@
       "license_status": "metadata_safe",
       "publish_approved": true,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-9E18F61CF23F",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/bowl-bounds.json",
+      "target_path": "projects/jin-token/editor/public/lower-half/bowl-bounds.json",
+      "sha256": "f5dd27010b11217cfa4ac7b56bd037ff2facbac98e1f9425f117b533723b7e40",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "metadata_already_present",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes."
     },
     {
       "path": "lower-half/character-bounds.json",
@@ -268,7 +603,19 @@
       "license_status": "metadata_safe",
       "publish_approved": true,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-F610B85EC2D2",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/character-bounds.json",
+      "target_path": "projects/jin-token/editor/public/lower-half/character-bounds.json",
+      "sha256": "ba9712ff3544f0d32748714f727c64d6df97f1bcedf6e43b2cb67f012a83c0e5",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "metadata_already_present",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes."
     },
     {
       "path": "lower-half/garden-scene-selected.png",
@@ -278,7 +625,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-FA19044C77E3",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/garden-scene-selected.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/garden-scene-selected.png",
+      "sha256": "98f5f0d3208db11fc0204c9a9e9510ea01978845c8966475295c6783b559eb0d",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/gpu-granary-thought-v1.png",
@@ -288,7 +648,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-89C4A4631739",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/gpu-granary-thought-v1.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/gpu-granary-thought-v1.png",
+      "sha256": "eef572c5311d8ee3988b946d09ae8e2ef21f2abb2e96187a4fa21053ca821068",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/granary-4x3-v21.png",
@@ -298,7 +671,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-B2210BB2DB23",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/granary-4x3-v21.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/granary-4x3-v21.png",
+      "sha256": "bcca955acdfd49d89d184639d09d2082a86ca94ee3693dd6015585fd1572cabb",
+      "used_in_final": true,
+      "story_nodes": [
+        "L10"
+      ],
+      "usage": "LowerThought granary",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/original-notes/A02.png",
@@ -308,7 +694,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-C6ADA14866A3",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/original-notes/A02.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/original-notes/A02.png",
+      "sha256": "7298b7480e5275e57c58cd9fa7b5a29a8a14f4810091116d1f434658ab0d43ec",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/original-notes/A05.png",
@@ -318,7 +717,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-7C60AF6F1444",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/original-notes/A05.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/original-notes/A05.png",
+      "sha256": "f96624154a99afb1565f7f1601dcbfe1ae679ab6c4877990fa5030b7ad4927c7",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/original-notes/A40.png",
@@ -328,7 +740,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-8E98922934A4",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/original-notes/A40.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/original-notes/A40.png",
+      "sha256": "829477ca5f8be138e4e66eaebfc193fe20111ae47f6b13db41c93c71f70553d4",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/poetry-character-sheet-v1.png",
@@ -338,7 +763,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-891A21BF1C37",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/poetry-character-sheet-v1.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/poetry-character-sheet-v1.png",
+      "sha256": "3797cbd953569bf8652b7cf1a06a6616f8fbb81681bf7947e9b5d995280c8f3f",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/proud-token-thought-v1.png",
@@ -348,7 +786,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-F7649966193A",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/proud-token-thought-v1.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/proud-token-thought-v1.png",
+      "sha256": "fda80e22754802ebcd256e524f1a441e8f5ea94caa7695b766539bd6c405b2c0",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/refill-api-platform-v4.png",
@@ -358,7 +809,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-5932EE663570",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/refill-api-platform-v4.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/refill-api-platform-v4.png",
+      "sha256": "67e85627de897a4b28a3489fe9ee2f4d7353c9291c2df722ff67223abc354ec3",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/refill-api-platform-v5.png",
@@ -368,7 +832,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-4685CF9A84C8",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/refill-api-platform-v5.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/refill-api-platform-v5.png",
+      "sha256": "68b04cfa987c142ccddacab238ec7d20cba38ba0d8469cf8304eed909b9e3937",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/refill-api-platform-v7.png",
@@ -378,7 +855,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-F5B50F5DD81A",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/refill-api-platform-v7.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/refill-api-platform-v7.png",
+      "sha256": "1b7287e6b23ace086cf92cecdafed1c209f5294d1521ad9a4eadf02a47fc873a",
+      "used_in_final": true,
+      "story_nodes": [
+        "L11"
+      ],
+      "usage": "LowerThought refill",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/refill-callback-thought-v1.png",
@@ -388,7 +878,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-E984D1C419E5",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/refill-callback-thought-v1.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/refill-callback-thought-v1.png",
+      "sha256": "e2865ea6a72cbe77c7ffeb795cb9efa11af9ce421f676c33ec8b4332d11514d8",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/rice-bowl-layer-v1.png",
@@ -398,7 +901,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-734ED734293A",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/rice-bowl-layer-v1.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/rice-bowl-layer-v1.png",
+      "sha256": "f5b872d7d4cc13d81b324cf811ff9ed559f204f6a35902846165573064d8a014",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/rice-dream-thought-v1.png",
@@ -408,7 +924,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-AFF3BEDA9867",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/rice-dream-thought-v1.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/rice-dream-thought-v1.png",
+      "sha256": "3f610f0a0414b8ec1c97a7d26abe3876825691a29fa305800848071eb91375d6",
+      "used_in_final": true,
+      "story_nodes": [
+        "L08"
+      ],
+      "usage": "LowerThought dream",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "lower-half/token-plate-4x3-v21.png",
@@ -418,7 +947,21 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-09C5146715BF",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/lower-half/token-plate-4x3-v21.png",
+      "target_path": "projects/jin-token/editor/public/lower-half/token-plate-4x3-v21.png",
+      "sha256": "2ecc30c4ef88d3b20f11f6999b55e37d06360cd4d6ba9e997762e43256d10f11",
+      "used_in_final": true,
+      "story_nodes": [
+        "L12",
+        "END"
+      ],
+      "usage": "LowerThought proud mask and plate",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "memes/A03.jpeg",
@@ -428,7 +971,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-A4B751E815A9",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/memes/A03.jpeg",
+      "target_path": "projects/jin-token/editor/public/memes/A03.jpeg",
+      "sha256": "088c44f53d79e02b8024cdb276983f087ed80c241393acce493f7f2e32efbb19",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "memes/A09.jpg",
@@ -438,7 +994,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-462875E76F75",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/memes/A09.jpg",
+      "target_path": "projects/jin-token/editor/public/memes/A09.jpg",
+      "sha256": "8890b60a460be670df79eb2cd09fb6e5b72f5f83fc7da21a3cc99ead141cca4b",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "memes/A15.gif",
@@ -448,7 +1017,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-A5508A7195FE",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/memes/A15.gif",
+      "target_path": "projects/jin-token/editor/public/memes/A15.gif",
+      "sha256": "d8c082acf97f38598ee527a60c06f72c5360b36ad5682a9e26ea6979407143db",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "memes/A29.gif",
@@ -458,7 +1040,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-CFF8AD752601",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/memes/A29.gif",
+      "target_path": "projects/jin-token/editor/public/memes/A29.gif",
+      "sha256": "1df90f4f61c51ee3110142c8ecb9f5e7af56cebb8c5b3a9b8a5b8294022166e6",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "memes/A31.gif",
@@ -468,7 +1063,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-340F1B316EEA",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/memes/A31.gif",
+      "target_path": "projects/jin-token/editor/public/memes/A31.gif",
+      "sha256": "4745b42b07509055a4311cef03b0b4346d76f2da282993986177ba4e840e0e57",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "memes/A37.png",
@@ -478,7 +1086,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-53BB82AFE2EA",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/memes/A37.png",
+      "target_path": "projects/jin-token/editor/public/memes/A37.png",
+      "sha256": "a53294b4a1d6dc38beda828087def42c5ee8a2361f09efbd92ce3d53fdbf0166",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/clean-motion.json",
@@ -488,17 +1109,42 @@
       "license_status": "metadata_safe",
       "publish_approved": true,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-3C76069A594D",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/clean-motion.json",
+      "target_path": "projects/jin-token/editor/public/upper-half/clean-motion.json",
+      "sha256": "f253f30756b116314f9d498c7341da36929c7b66e217e3ea1d49b9d469b60310",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "metadata_already_present",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes."
     },
     {
       "path": "upper-half/coin-metal-ticks.wav",
       "size_bytes": 1536044,
       "source_git_blob": "16743148ced71e567afd841f7c772d95dbf90b7b",
-      "category": "visual_generated_review",
+      "category": "audio_rights_review",
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-7D08606FC69B",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/coin-metal-ticks.wav",
+      "target_path": "projects/jin-token/editor/public/upper-half/coin-metal-ticks.wav",
+      "sha256": "d157f63da8a9a2acc0c481db1baa4892206490afcb32c525d4f8422fb9c915c8",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/empty-basin-reminder-v1.png",
@@ -508,7 +1154,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-647DAF6195C4",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/empty-basin-reminder-v1.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/empty-basin-reminder-v1.png",
+      "sha256": "456fdd9d3b70d4d2468dd8a519d96ebcd871a71f0174a5bdd72e1351ccc45e6b",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/empty-basin-reminder-v2-caption.png",
@@ -518,7 +1177,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-8D6FD02F30B3",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/empty-basin-reminder-v2-caption.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/empty-basin-reminder-v2-caption.png",
+      "sha256": "4421f5a122517931713577d38b6dbb0a3d5c841bb5f45f32d8dec9d1694b98c0",
+      "used_in_final": true,
+      "story_nodes": [
+        "L04"
+      ],
+      "usage": "ThoughtBubble new reminder",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/gpu-dense-v2.png",
@@ -528,7 +1200,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-DA97DC875F03",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/gpu-dense-v2.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/gpu-dense-v2.png",
+      "sha256": "f4f302d2fbd1b8cc98d6340ff22016ceda0fdca7e38294d4048330f21299556c",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/gpu-hybrid.png",
@@ -538,7 +1223,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-EFD8889EF740",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/gpu-hybrid.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/gpu-hybrid.png",
+      "sha256": "1513151be760b64a73ec9ca98a2c7805141b016ff32599025897f65f8eb2ea57",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/gpu-material.png",
@@ -548,7 +1246,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-EDB68951710D",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/gpu-material.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/gpu-material.png",
+      "sha256": "927f86c634f250e70ce9844c82b93b6f804075a236244914d78c097b8fc19e79",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/gpu-rock-cap-v3.png",
@@ -558,7 +1269,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-D48ABC559434",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/gpu-rock-cap-v3.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/gpu-rock-cap-v3.png",
+      "sha256": "56c67482066df6e1cd97ec48054b3f502c9123139d330c924cab6425bfc35f87",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/gpu-scene-selected.png",
@@ -568,7 +1292,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-61FC2A31A4C1",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/gpu-scene-selected.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/gpu-scene-selected.png",
+      "sha256": "a00186d5592b02227556b5fa135f758419af4ed7b7f560466192946e9bbe7d5a",
+      "used_in_final": true,
+      "story_nodes": [
+        "L01-L05"
+      ],
+      "usage": "GpuBackdrop",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/gpu-stack.png",
@@ -578,7 +1315,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-8F0851B40C49",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/gpu-stack.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/gpu-stack.png",
+      "sha256": "5d5f7e3b7002caf48a6eb6029bca4e219bb42171a2dba3c76a01f092978d2c25",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/letmego-source-motion.mp4",
@@ -588,7 +1338,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-FF9C40569787",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/letmego-source-motion.mp4",
+      "target_path": "projects/jin-token/editor/public/upper-half/letmego-source-motion.mp4",
+      "sha256": "96ef6fbce05830cdc9942fd6ff901a1f783551b8687e316701be603b06165565",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/metal-token-v1.png",
@@ -598,7 +1361,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-BE8B1AC852F4",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/metal-token-v1.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/metal-token-v1.png",
+      "sha256": "3dfeb6bd6856616cc2401485d0a75754ca64469b73b4a9dbb220ff6276366a95",
+      "used_in_final": true,
+      "story_nodes": [
+        "L01-L05"
+      ],
+      "usage": "TokenRain",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/paper-main-cut.png",
@@ -608,7 +1384,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-B42EA28A49BA",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/paper-main-cut.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/paper-main-cut.png",
+      "sha256": "e52db15940c3f4a0f37d17a6c7ca766aff8d83d91b25a07d7b78eadaba850281",
+      "used_in_final": true,
+      "story_nodes": [
+        "L02-L12"
+      ],
+      "usage": "ThoughtBubble / LowerThought transitions",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/rice-day-night.png",
@@ -618,7 +1407,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-4EE519107088",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/rice-day-night.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/rice-day-night.png",
+      "sha256": "d18a85e9e6209042a6ea5c45b024ea77ba3ed5ff11a4e9bdbdff195e80748b09",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/rice-integrated-v2.png",
@@ -628,7 +1430,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-994E20DF5C0A",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/rice-integrated-v2.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/rice-integrated-v2.png",
+      "sha256": "449a7bcfd80851dda31b4cab87ae30d03f7bba361a033df66f7ebe65f9151c51",
+      "used_in_final": true,
+      "story_nodes": [
+        "L02-L03"
+      ],
+      "usage": "ThoughtBubble rice",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/singing-clean-v2.webm",
@@ -638,7 +1453,21 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-0AB79447B946",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/singing-clean-v2.webm",
+      "target_path": "projects/jin-token/editor/public/upper-half/singing-clean-v2.webm",
+      "sha256": "157b81555f079e8b0e400118af5c09d7a0c8e29083eb418f07312a7ff2b4e81e",
+      "used_in_final": true,
+      "story_nodes": [
+        "L05",
+        "L09"
+      ],
+      "usage": "Transparent singing Loop",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/singing-frame-v2.png",
@@ -648,7 +1477,21 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-C6C91F23BC2E",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/singing-frame-v2.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/singing-frame-v2.png",
+      "sha256": "81ad26398eab2ffe3941503871a7307bd9803b945e243a60f57a98967eb0e3fa",
+      "used_in_final": true,
+      "story_nodes": [
+        "L05",
+        "L09"
+      ],
+      "usage": "Transparent singing frame",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/thought-dot-large.png",
@@ -658,7 +1501,21 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-8F6E8C40FFFC",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/thought-dot-large.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/thought-dot-large.png",
+      "sha256": "85dbdd8d37fa673746a6502db91827d559d21612daddf9cbcf1cff66b6eaac8b",
+      "used_in_final": true,
+      "story_nodes": [
+        "L02-L12",
+        "END"
+      ],
+      "usage": "Thought pointer",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/thought-dot-small.png",
@@ -668,7 +1525,21 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-23E2B4993DC4",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/thought-dot-small.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/thought-dot-small.png",
+      "sha256": "9e2d3a5fef86eb31e829e70e4b31acebf00c2fa57b9a03610040b53f7a6b9af3",
+      "used_in_final": true,
+      "story_nodes": [
+        "L02-L12",
+        "END"
+      ],
+      "usage": "Thought pointer",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/thought-paper.png",
@@ -678,7 +1549,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-7E3B24D47A9F",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/thought-paper.png",
+      "target_path": "projects/jin-token/editor/public/upper-half/thought-paper.png",
+      "sha256": "93b3575aef0fcd37f19d621d1d8a0bae22787321ca8d880d9214bc92597a75e1",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/title.wav",
@@ -688,7 +1572,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-63497844E250",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/title.wav",
+      "target_path": "projects/jin-token/editor/public/upper-half/title.wav",
+      "sha256": "8a162df302158fc9022ae6e34bc1c375046a5e19383235b392baa5e858214249",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/token-clean-v2.webm",
@@ -698,7 +1595,20 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-97A235A99BFD",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/token-clean-v2.webm",
+      "target_path": "projects/jin-token/editor/public/upper-half/token-clean-v2.webm",
+      "sha256": "25726925b6d53a200b0f884ef4d869565a7ab3e406c12caae703c0bd4e0f9bd5",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
     },
     {
       "path": "upper-half/token-return.gif",
@@ -708,7 +1618,397 @@
       "license_status": "pending",
       "publish_approved": false,
       "license_evidence": null,
-      "notes": null
+      "notes": null,
+      "asset_id": "JT-200FB4B7BCD8",
+      "source_path": "大肥鱼吟诗/production/v3/editor/public/upper-half/token-return.gif",
+      "target_path": "projects/jin-token/editor/public/upper-half/token-return.gif",
+      "sha256": "7e7546f338008b087c4ad56d0ecdda5c91a21c90c67439ac522db5a2284a69da",
+      "used_in_final": false,
+      "story_nodes": [
+        "WORKSHOP"
+      ],
+      "usage": "Historical/workshop/preprocessing dependency",
+      "rights_holder": "unconfirmed",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "See editor/README.md: local legal media hydration; public demo uses substitutes.",
+      "distribution": "local_only_pending_review"
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/22_final_hold_gemini_20261023/将进token_发布定稿_动态留白3秒_v11.mp4",
+      "size_bytes": 11426968,
+      "sha256": "9e8cf51966ca73dc2a93a7c77399ca84db37d802f3cab6ef995ca00f0370b16c",
+      "source_git_blob": "ad48fc070ed958eee49c6dc11da2bd95c83164a7",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-63BFD77A0840",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/evidence/container.json",
+      "size_bytes": 404,
+      "sha256": "5646b5ab04a1723b93715072500caaefea6bd779ce4f5329b99f4a4e5cf85cd4",
+      "source_git_blob": "37ff859a7de00b980f15a4569ffb7a154ba92469",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-8B5ADD094E9B",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/evidence/render_progress.jsonl",
+      "size_bytes": 1550,
+      "sha256": "f58b8b03ee9cce5c01231c1e7f2521ff1b906a9b13f465a620258d14e02bb804",
+      "source_git_blob": "cc0d3c401b4878f2f9fc6a020defcbd86d173932",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-56BCD64058E9",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/evidence/source_contract.json",
+      "size_bytes": 992,
+      "sha256": "924832f7f731ad3f916a16f35396ce6c4c4b26099ec41ae8e0407427e368a1bb",
+      "source_git_blob": "e60ec83cb3a4906a21700451b95dbbcd10d54b94",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-11C34C986E0D",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/evidence/submission_qc.json",
+      "size_bytes": 2868,
+      "sha256": "35c780daaa1ccfec81712f584dd7aa9c796876c305be651c90ea4da3b17fd322",
+      "source_git_blob": "21200bf5a2a8b665259ed4b429bdb3fb60db1267",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-3BEB7FFE5F58",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/evidence/v11_motion_qc.json",
+      "size_bytes": 1695,
+      "sha256": "4d6a3028ff3d8b1d77e59ff59b560dfbc0d32a2d009133948855c3b4bbd04b5b",
+      "source_git_blob": "a205ee82adc9ce94cb6d993e7e3b20d624327e54",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-E9B22BF30ED5",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/findings.md",
+      "size_bytes": 700,
+      "sha256": "b5f52303c35aaae7c7a5ce52a1b659d3fc14506003531ce9804bc66453a19e8c",
+      "source_git_blob": "e00a99353bf4635ccfefb668d83d6a642221e065",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-B7412D0A69FB",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/index.html",
+      "size_bytes": 1115,
+      "sha256": "15a6fc42713452d7b3b995421b33255b2f1a7994af9f8efc483cb0e9c38c46b4",
+      "source_git_blob": "2c888300e525e872969527e91bb4a31a64b49412",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-25FB14DD4D55",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/progress.md",
+      "size_bytes": 562,
+      "sha256": "09e8840d01ab41d12397ed6399c43656389ebf0fde4fc2810779f6c9a5cf460c",
+      "source_git_blob": "268a69020492a34d221a23f4f6620ecd688d1803",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-079CFBFA51AA",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/task_plan.md",
+      "size_bytes": 384,
+      "sha256": "4801368e15c7ec592a625b1a7f10893d9389176853736178edd251613931675b",
+      "source_git_blob": "4efe233ec378f9db981aef8c8224a5cc0e44c263",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-3F86B55B95A5",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/verify_submission.py",
+      "size_bytes": 4043,
+      "sha256": "36a9dac19f99f4f9d46f22ab3bd3a0a70f25b36326e7e19826714a867d6238a2",
+      "source_git_blob": "c02b7b98605888fbc2da4748c59bc9b8e48ffcea",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-FCFD23B0EF06",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/24_submission_master_20261023/将进token_投稿定稿_4K高品质.mp4",
+      "size_bytes": 78540650,
+      "sha256": "200cc831123a83d8b88729138329264595e5aefe62105df686115c78db1fb2fc",
+      "source_git_blob": "16c2c075037582b87b33b336843053d776a1077e",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-B53AF5B360DC",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/25_covers_remote_20261023/covers/将进token_封面_16x9_投稿.png",
+      "size_bytes": 4063949,
+      "sha256": "06a18a2caf2967c382678739a104c9bee68e78cafba5376ec90c6c81ddba6927",
+      "source_git_blob": "94ff8ff49aa5dec081cece6928c7d5baaecb92bb",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-77882FCD0DA1",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
+    },
+    {
+      "source_path": "大肥鱼吟诗/production/v3/25_covers_remote_20261023/covers/将进token_封面_4x3_像素标题.png",
+      "size_bytes": 3026371,
+      "sha256": "89a5bc19b556e93a2a2bae2504f8e8f40f413be5b9ef2acff2002f0151141c80",
+      "source_git_blob": "3af7d6bee02723912bb689d24a36fc8885b4f013",
+      "classification": "release_delivery",
+      "publish_status": "not_approved_by_inventory",
+      "note": "Classification is for navigation, not a legal permission decision.",
+      "asset_id": "JT-40F6C2C78E2E",
+      "path": null,
+      "target_path": null,
+      "category": "release_delivery",
+      "used_in_final": false,
+      "story_nodes": [
+        "RELEASE"
+      ],
+      "usage": "Final video / cover delivery, not runtime input",
+      "rights_holder": "unconfirmed composite rights",
+      "license_status": "pending",
+      "publish_approved": false,
+      "license_evidence": null,
+      "distribution": "local_only_pending_review",
+      "migration_status": "withheld_pending_rights",
+      "fallback": "Verified official publication link when supplied; do not upload composite media."
     }
-  ]
+  ],
+  "runtime_profile": {
+    "entry": "FullReview via 4K exporter",
+    "frames": 2613,
+    "fps": 30,
+    "required_paths": [
+      "audio/full_mix_final_tail3s.wav",
+      "fonts/Cubic_11.ttf",
+      "fonts/LXGWWenKaiScreen.ttf",
+      "fonts/fusion-pixel-12px-monospaced-zh_hans.otf",
+      "lower-half/A48-foreground-cpu-v21.webm",
+      "lower-half/B-approved-20261022.png",
+      "lower-half/granary-4x3-v21.png",
+      "lower-half/refill-api-platform-v7.png",
+      "lower-half/rice-dream-thought-v1.png",
+      "lower-half/token-plate-4x3-v21.png",
+      "upper-half/empty-basin-reminder-v2-caption.png",
+      "upper-half/gpu-scene-selected.png",
+      "upper-half/metal-token-v1.png",
+      "upper-half/paper-main-cut.png",
+      "upper-half/rice-integrated-v2.png",
+      "upper-half/singing-clean-v2.webm",
+      "upper-half/singing-frame-v2.png",
+      "upper-half/thought-dot-large.png",
+      "upper-half/thought-dot-small.png"
+    ],
+    "review_basis": "Manual call-chain inspection, including conditional final props and eager font loads; excludes alternative reminder and workshop assets."
+  }
 }

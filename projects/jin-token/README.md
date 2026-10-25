@@ -32,8 +32,11 @@ npm ci
 npx remotion studio --no-open
 ```
 
-正式渲染参考 `editor/render-submission-4k.cjs`；其输出路径仍沿用上游名称 24_submission_master_20261023，脚本会拒绝覆盖已有成片。文件搬运后必须先检查依赖/输出路径。**不要因为代码文件存在就宣称本仓库已成功渲染。**
+正式入口改为 `JinToken-Final`；导出脚本支持 `--output`、`--public-dir`、`--scale`。详见[两种复现路径](editor/README.md)与[本次QC](../../reports/02_build_and_qc.md)。
 
 ## 系列仓库定位
 
 未来新作放在 `projects/<new-slug>/`；跨两部以上作品验证有效的内容才考虑抽取到根目录 shared，避免把第一部视频定制的代码误认成通用产品。
+## 新增角色素材
+
+[最终大肥鱼优化图与署名](assets/CHARACTER_RIGHTS.md) · [全部20张新增图索引](assets/post-freeze-manifest.json) · [完整提示词](assets/prompts/scene2-turnarounds.json)。五位其他角色分别保留许可待审，不套大肥鱼协议。

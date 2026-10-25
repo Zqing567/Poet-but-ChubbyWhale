@@ -25,3 +25,10 @@
 ## 对于公开成片
 
 若来源许可仅允许视频平台播放、不允许素材独立再分发，改为提供原官方 B 站视频链接和制作方法说明；可以提供**去媒体的源码**、用户自行补全的文件映射方式和可替代的开源素材指南。
+## 2026-10-26 实际整理
+
+[asset-manifest.json](asset-manifest.json)保留原70路径并补14项交付目录记录，正式运行媒体共19项；[source-inventory.json](source-inventory.json)覆盖冻结源760文件。4个字体已核对嵌入许可与随附文本并迁入，声明见licenses/fonts；角色最终图与署名见[CHARACTER_RIGHTS](CHARACTER_RIGHTS.md)。
+
+[post-freeze-manifest](post-freeze-manifest.json)另记20张新增图，最终优化组7张，其中2张大肥鱼已迁入；其余图片保留精确本地映射与哈希。两轮提示词存放prompts。它们是影片发布后的衍生材料，不改变冻结影片来源。
+
+公开可运行的几何占位演示与合法持有者的本地补齐流程见[editor](../editor/README.md)。

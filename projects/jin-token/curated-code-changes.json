@@ -1,0 +1,209 @@
+{
+  "date": "2026-10-26",
+  "baseline_commit": "802d8e04a8ed7a9d998da363ee918f316e1049bc",
+  "files": [
+    {
+      "file": "eslint.config.mjs",
+      "baseline_blob": "13b44a0d6501e6fa427a37fb920b3014ebf77add",
+      "current_blob": "13b44a0d6501e6fa427a37fb920b3014ebf77add",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "matte-a48-cpu-v21.mjs",
+      "baseline_blob": "6872bb1084a57c4d2545012339710a3a4e85355b",
+      "current_blob": "0310a3a00d9471050c183aec3b86e0f94272dbb2",
+      "changed_in_curation": true,
+      "reason": "Remove machine FFmpeg and model-cache path; use environment overrides and local cache default."
+    },
+    {
+      "file": "matte-a48-v21.mjs",
+      "baseline_blob": "6fce3bf627fc1fc57d779369d6891eeffbc11f1d",
+      "current_blob": "6fce3bf627fc1fc57d779369d6891eeffbc11f1d",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "package-lock.json",
+      "baseline_blob": "604b9c0836b9aa2509523c935652d49a6ebfb8e4",
+      "current_blob": "604b9c0836b9aa2509523c935652d49a6ebfb8e4",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "package.json",
+      "baseline_blob": "e60208174ed7f9a9ba9326e9f3d33bd9f6167452",
+      "current_blob": "e60208174ed7f9a9ba9326e9f3d33bd9f6167452",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "public/lower-half/bowl-bounds.json",
+      "baseline_blob": "2c9a5c29acfef2bfc92fc0144911030b60591281",
+      "current_blob": "2c9a5c29acfef2bfc92fc0144911030b60591281",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "public/lower-half/character-bounds.json",
+      "baseline_blob": "2d0a4e9e992067aa83c04af3245ad5a4c29356ff",
+      "current_blob": "2d0a4e9e992067aa83c04af3245ad5a4c29356ff",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "public/upper-half/clean-motion.json",
+      "baseline_blob": "72befa3c699a57abde97e9d0021b3166e32576bf",
+      "current_blob": "72befa3c699a57abde97e9d0021b3166e32576bf",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "remotion.config.ts",
+      "baseline_blob": "42124ed8d08de036f6e51a5a31901d6c10012707",
+      "current_blob": "42124ed8d08de036f6e51a5a31901d6c10012707",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "render-submission-4k.cjs",
+      "baseline_blob": "ce1758b4cfe4f3a47034106ca9634ac9e6c988b5",
+      "current_blob": "eff435cd3504e5c98e26490e3e68897efb238379",
+      "changed_in_curation": true,
+      "reason": "Portable output/public directory/scale/frame-range, preflight missing media and input/output SHA256 evidence; no dependence on old sibling directory."
+    },
+    {
+      "file": "src/APIRepair.tsx",
+      "baseline_blob": "461286ee2a4bf33fff646419e16b03502b2f0a65",
+      "current_blob": "461286ee2a4bf33fff646419e16b03502b2f0a65",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/CaptionStudy.tsx",
+      "baseline_blob": "3ed3e698583745cf45b626c35fc2087d63d1d39a",
+      "current_blob": "3ed3e698583745cf45b626c35fc2087d63d1d39a",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/Fonts.ts",
+      "baseline_blob": "2ee416896753ec2b57dba4caf505c7cdbe6a58ae",
+      "current_blob": "2ee416896753ec2b57dba4caf505c7cdbe6a58ae",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/FullReview.tsx",
+      "baseline_blob": "7bd092f583390009eed9d207cf21d1ecdfbb45f1",
+      "current_blob": "7bd092f583390009eed9d207cf21d1ecdfbb45f1",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/GpuBackdrop.tsx",
+      "baseline_blob": "cf6d101a0e89f40765f94baca02703c62ba7633e",
+      "current_blob": "cf6d101a0e89f40765f94baca02703c62ba7633e",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/LowerHalf.tsx",
+      "baseline_blob": "70fb5b7f54bc1d8e69a372b0b26ea448e232a234",
+      "current_blob": "70fb5b7f54bc1d8e69a372b0b26ea448e232a234",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/Root.tsx",
+      "baseline_blob": "44cf0e3017664abe56fff36ee388acedecbcbea7",
+      "current_blob": "2c04adfad4adf83a87154576ba4a8aac9667dd83",
+      "changed_in_curation": true,
+      "reason": "Add explicit final 2613-frame composition with final tail audio; historical compositions retained."
+    },
+    {
+      "file": "src/UpperHalf.tsx",
+      "baseline_blob": "579bb909a8934242dcb746cab4cd6a08f6bbecd5",
+      "current_blob": "579bb909a8934242dcb746cab4cd6a08f6bbecd5",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/api-repair-entry.tsx",
+      "baseline_blob": "7de58738892d2d100e674a5095ff86db1f770dc1",
+      "current_blob": "7de58738892d2d100e674a5095ff86db1f770dc1",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/api-repair.json",
+      "baseline_blob": "20d8651db68e3315136ddcb991f4d7ec7d326179",
+      "current_blob": "20d8651db68e3315136ddcb991f4d7ec7d326179",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/caption-model.d.mts",
+      "baseline_blob": "e9e53011e2f1ed3cd2c0077dbebdd6b7d8da81d3",
+      "current_blob": "e9e53011e2f1ed3cd2c0077dbebdd6b7d8da81d3",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/caption-model.mjs",
+      "baseline_blob": "79e01aa7ce78c606e01dec0b9eb12a5c3d23ff5e",
+      "current_blob": "79e01aa7ce78c606e01dec0b9eb12a5c3d23ff5e",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/captions.json",
+      "baseline_blob": "85a8b789593c327bd7496a7f5d812dd848961abd",
+      "current_blob": "85a8b789593c327bd7496a7f5d812dd848961abd",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/cue-model.ts",
+      "baseline_blob": "f9e8e7b70adb3ba8f685217a33d65d8d5ca2215f",
+      "current_blob": "f9e8e7b70adb3ba8f685217a33d65d8d5ca2215f",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/index.ts",
+      "baseline_blob": "7744d128373e7f2056d179e850433ea112d04fa4",
+      "current_blob": "7744d128373e7f2056d179e850433ea112d04fa4",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/line-widths.json",
+      "baseline_blob": "38c25a28c1d3f5ef1697a483b7a2400105f1b1e2",
+      "current_blob": "38c25a28c1d3f5ef1697a483b7a2400105f1b1e2",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/selected-layout.json",
+      "baseline_blob": "aa3a395e69c96159de2d2e443d611848bf7376f3",
+      "current_blob": "aa3a395e69c96159de2d2e443d611848bf7376f3",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "src/upper-half.json",
+      "baseline_blob": "4f7c7a1107a2e46c3d28a2168df543f0b6b7f88a",
+      "current_blob": "4f7c7a1107a2e46c3d28a2168df543f0b6b7f88a",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    },
+    {
+      "file": "tsconfig.json",
+      "baseline_blob": "7bc6afde3cd3f0d5e1db2922a1acf73592cd2a93",
+      "current_blob": "7bc6afde3cd3f0d5e1db2922a1acf73592cd2a93",
+      "changed_in_curation": false,
+      "reason": "No content change since sanitized baseline"
+    }
+  ]
+}
