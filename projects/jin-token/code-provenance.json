@@ -1,0 +1,214 @@
+{
+  "schema_version": "1.0",
+  "source_commit": "0357d1b7965c8bdb606a7fc45e75d9f4e3619897",
+  "source_project": "大肥鱼吟诗/production/v3/editor/",
+  "destination": "projects/jin-token/editor/",
+  "status": "curated_code_and_machine_path_sanitization",
+  "published_code_and_config_count": 29,
+  "copy_notes": "Two machine-specific paths were converted to portable relative references: src/upper-half.json (sourceSingingVideo) and public/upper-half/clean-motion.json (source/output). Other migrated files preserve upstream bytes.",
+  "files": [
+    {
+      "file": "eslint.config.mjs",
+      "old_sha": "13b44a0d6501e6fa427a37fb920b3014ebf77add",
+      "new_sha": "13b44a0d6501e6fa427a37fb920b3014ebf77add",
+      "bytes": 79,
+      "changed": false
+    },
+    {
+      "file": "matte-a48-cpu-v21.mjs",
+      "old_sha": "6872bb1084a57c4d2545012339710a3a4e85355b",
+      "new_sha": "6872bb1084a57c4d2545012339710a3a4e85355b",
+      "bytes": 3336,
+      "changed": false
+    },
+    {
+      "file": "matte-a48-v21.mjs",
+      "old_sha": "6fce3bf627fc1fc57d779369d6891eeffbc11f1d",
+      "new_sha": "6fce3bf627fc1fc57d779369d6891eeffbc11f1d",
+      "bytes": 1998,
+      "changed": false
+    },
+    {
+      "file": "package-lock.json",
+      "old_sha": "604b9c0836b9aa2509523c935652d49a6ebfb8e4",
+      "new_sha": "604b9c0836b9aa2509523c935652d49a6ebfb8e4",
+      "bytes": 263441,
+      "changed": false
+    },
+    {
+      "file": "package.json",
+      "old_sha": "e60208174ed7f9a9ba9326e9f3d33bd9f6167452",
+      "new_sha": "e60208174ed7f9a9ba9326e9f3d33bd9f6167452",
+      "bytes": 966,
+      "changed": false
+    },
+    {
+      "file": "public/lower-half/bowl-bounds.json",
+      "old_sha": "2c9a5c29acfef2bfc92fc0144911030b60591281",
+      "new_sha": "2c9a5c29acfef2bfc92fc0144911030b60591281",
+      "bytes": 49,
+      "changed": false
+    },
+    {
+      "file": "public/lower-half/character-bounds.json",
+      "old_sha": "2d0a4e9e992067aa83c04af3245ad5a4c29356ff",
+      "new_sha": "2d0a4e9e992067aa83c04af3245ad5a4c29356ff",
+      "bytes": 11851,
+      "changed": false
+    },
+    {
+      "file": "public/upper-half/clean-motion.json",
+      "old_sha": "9631b7227c95b3bb09f509c4e280bad6d7b75b3e",
+      "new_sha": "72befa3c699a57abde97e9d0021b3166e32576bf",
+      "bytes": 873,
+      "changed": true
+    },
+    {
+      "file": "remotion.config.ts",
+      "old_sha": "42124ed8d08de036f6e51a5a31901d6c10012707",
+      "new_sha": "42124ed8d08de036f6e51a5a31901d6c10012707",
+      "bytes": 371,
+      "changed": false
+    },
+    {
+      "file": "render-submission-4k.cjs",
+      "old_sha": "ce1758b4cfe4f3a47034106ca9634ac9e6c988b5",
+      "new_sha": "ce1758b4cfe4f3a47034106ca9634ac9e6c988b5",
+      "bytes": 1662,
+      "changed": false
+    },
+    {
+      "file": "src/APIRepair.tsx",
+      "old_sha": "461286ee2a4bf33fff646419e16b03502b2f0a65",
+      "new_sha": "461286ee2a4bf33fff646419e16b03502b2f0a65",
+      "bytes": 987,
+      "changed": false
+    },
+    {
+      "file": "src/CaptionStudy.tsx",
+      "old_sha": "3ed3e698583745cf45b626c35fc2087d63d1d39a",
+      "new_sha": "3ed3e698583745cf45b626c35fc2087d63d1d39a",
+      "bytes": 7550,
+      "changed": false
+    },
+    {
+      "file": "src/Fonts.ts",
+      "old_sha": "2ee416896753ec2b57dba4caf505c7cdbe6a58ae",
+      "new_sha": "2ee416896753ec2b57dba4caf505c7cdbe6a58ae",
+      "bytes": 492,
+      "changed": false
+    },
+    {
+      "file": "src/FullReview.tsx",
+      "old_sha": "7bd092f583390009eed9d207cf21d1ecdfbb45f1",
+      "new_sha": "7bd092f583390009eed9d207cf21d1ecdfbb45f1",
+      "bytes": 1049,
+      "changed": false
+    },
+    {
+      "file": "src/GpuBackdrop.tsx",
+      "old_sha": "cf6d101a0e89f40765f94baca02703c62ba7633e",
+      "new_sha": "cf6d101a0e89f40765f94baca02703c62ba7633e",
+      "bytes": 651,
+      "changed": false
+    },
+    {
+      "file": "src/LowerHalf.tsx",
+      "old_sha": "70fb5b7f54bc1d8e69a372b0b26ea448e232a234",
+      "new_sha": "70fb5b7f54bc1d8e69a372b0b26ea448e232a234",
+      "bytes": 4495,
+      "changed": false
+    },
+    {
+      "file": "src/Root.tsx",
+      "old_sha": "44cf0e3017664abe56fff36ee388acedecbcbea7",
+      "new_sha": "44cf0e3017664abe56fff36ee388acedecbcbea7",
+      "bytes": 4955,
+      "changed": false
+    },
+    {
+      "file": "src/UpperHalf.tsx",
+      "old_sha": "579bb909a8934242dcb746cab4cd6a08f6bbecd5",
+      "new_sha": "579bb909a8934242dcb746cab4cd6a08f6bbecd5",
+      "bytes": 5469,
+      "changed": false
+    },
+    {
+      "file": "src/api-repair-entry.tsx",
+      "old_sha": "7de58738892d2d100e674a5095ff86db1f770dc1",
+      "new_sha": "7de58738892d2d100e674a5095ff86db1f770dc1",
+      "bytes": 308,
+      "changed": false
+    },
+    {
+      "file": "src/api-repair.json",
+      "old_sha": "20d8651db68e3315136ddcb991f4d7ec7d326179",
+      "new_sha": "20d8651db68e3315136ddcb991f4d7ec7d326179",
+      "bytes": 2704,
+      "changed": false
+    },
+    {
+      "file": "src/caption-model.d.mts",
+      "old_sha": "e9e53011e2f1ed3cd2c0077dbebdd6b7d8da81d3",
+      "new_sha": "e9e53011e2f1ed3cd2c0077dbebdd6b7d8da81d3",
+      "bytes": 176,
+      "changed": false
+    },
+    {
+      "file": "src/caption-model.mjs",
+      "old_sha": "79e01aa7ce78c606e01dec0b9eb12a5c3d23ff5e",
+      "new_sha": "79e01aa7ce78c606e01dec0b9eb12a5c3d23ff5e",
+      "bytes": 477,
+      "changed": false
+    },
+    {
+      "file": "src/captions.json",
+      "old_sha": "85a8b789593c327bd7496a7f5d812dd848961abd",
+      "new_sha": "85a8b789593c327bd7496a7f5d812dd848961abd",
+      "bytes": 4303,
+      "changed": false
+    },
+    {
+      "file": "src/cue-model.ts",
+      "old_sha": "f9e8e7b70adb3ba8f685217a33d65d8d5ca2215f",
+      "new_sha": "f9e8e7b70adb3ba8f685217a33d65d8d5ca2215f",
+      "bytes": 836,
+      "changed": false
+    },
+    {
+      "file": "src/index.ts",
+      "old_sha": "7744d128373e7f2056d179e850433ea112d04fa4",
+      "new_sha": "7744d128373e7f2056d179e850433ea112d04fa4",
+      "bytes": 88,
+      "changed": false
+    },
+    {
+      "file": "src/line-widths.json",
+      "old_sha": "38c25a28c1d3f5ef1697a483b7a2400105f1b1e2",
+      "new_sha": "38c25a28c1d3f5ef1697a483b7a2400105f1b1e2",
+      "bytes": 853,
+      "changed": false
+    },
+    {
+      "file": "src/selected-layout.json",
+      "old_sha": "aa3a395e69c96159de2d2e443d611848bf7376f3",
+      "new_sha": "aa3a395e69c96159de2d2e443d611848bf7376f3",
+      "bytes": 883,
+      "changed": false
+    },
+    {
+      "file": "src/upper-half.json",
+      "old_sha": "4e0aa24446d3551a4dc9615f410075e36a8d02dc",
+      "new_sha": "4f7c7a1107a2e46c3d28a2168df543f0b6b7f88a",
+      "bytes": 721,
+      "changed": true
+    },
+    {
+      "file": "tsconfig.json",
+      "old_sha": "7bc6afde3cd3f0d5e1db2922a1acf73592cd2a93",
+      "new_sha": "7bc6afde3cd3f0d5e1db2922a1acf73592cd2a93",
+      "bytes": 419,
+      "changed": false
+    }
+  ]
+}

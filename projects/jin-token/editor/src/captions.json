@@ -1,0 +1,184 @@
+[
+  {
+    "id": "L01",
+    "scene": "A",
+    "slot": 0,
+    "rows": [
+      "君不见，用户 token 天上来，落入铁盆不复回。"
+    ],
+    "text": "君不见，用户 token 天上来，落入铁盆不复回。",
+    "startMs": 3233.3333333333335,
+    "endMs": 10808.333333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 97,
+    "endFrame": 325
+  },
+  {
+    "id": "L02",
+    "scene": "A",
+    "slot": 1,
+    "rows": [
+      "君不见，高高在上吃白饭，朝炫两碗暮一碗。"
+    ],
+    "text": "君不见，高高在上吃白饭，朝炫两碗暮一碗。",
+    "startMs": 10808.333333333334,
+    "endMs": 17723.333333333332,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 324,
+    "endFrame": 532
+  },
+  {
+    "id": "L03",
+    "scene": "A",
+    "slot": 2,
+    "rows": [
+      "鱼生得意须尽欢，莫使显存空负载。"
+    ],
+    "text": "鱼生得意须尽欢，莫使显存空负载。",
+    "startMs": 18233.333333333336,
+    "endMs": 23503.333333333332,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 547,
+    "endFrame": 706
+  },
+  {
+    "id": "L04",
+    "scene": "A",
+    "slot": 3,
+    "rows": [
+      "天生用户必有用，token 用尽还复来！"
+    ],
+    "text": "天生用户必有用，token 用尽还复来！",
+    "startMs": 24100.0,
+    "endMs": 28950.000000000004,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 723,
+    "endFrame": 869
+  },
+  {
+    "id": "L05",
+    "scene": "A",
+    "slot": 4,
+    "rows": [
+      "唱歌偷懒且为乐，会须一啖三千卡。"
+    ],
+    "text": "唱歌偷懒且为乐，会须一啖三千卡。",
+    "startMs": 29600.0,
+    "endMs": 34920.0,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 888,
+    "endFrame": 1048
+  },
+  {
+    "id": "L06",
+    "scene": "B",
+    "slot": 0,
+    "rows": [
+      "Claude，GPT，将进 token，机莫停！"
+    ],
+    "text": "Claude，GPT，将进 token，机莫停！",
+    "startMs": 35700.0,
+    "endMs": 41729.0,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1071,
+    "endFrame": 1252
+  },
+  {
+    "id": "L07",
+    "scene": "B",
+    "slot": 1,
+    "rows": [
+      "与君歌一曲，请君为我倾耳听。"
+    ],
+    "text": "与君歌一曲，请君为我倾耳听。",
+    "startMs": 41729.0,
+    "endMs": 46214.0,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1252,
+    "endFrame": 1387
+  },
+  {
+    "id": "L08",
+    "scene": "B",
+    "slot": 2,
+    "rows": [
+      "万卡算力不足贵，但愿晕碳不愿醒。"
+    ],
+    "text": "万卡算力不足贵，但愿晕碳不愿醒。",
+    "startMs": 46214.0,
+    "endMs": 56116.0,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1386,
+    "endFrame": 1684
+  },
+  {
+    "id": "L09",
+    "scene": "B",
+    "slot": 3,
+    "rows": [
+      "古来 SOTA 皆寂寞，",
+      "Let me go making the call~"
+    ],
+    "text": "古来 SOTA 皆寂寞，Let me go making the call~",
+    "startMs": 56116.0,
+    "endMs": 62481.0,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1683,
+    "endFrame": 1875
+  },
+  {
+    "id": "L10",
+    "scene": "B",
+    "slot": 4,
+    "rows": [
+      "梁圣昔时量化富，囤卡十千养肥鱼。"
+    ],
+    "text": "梁圣昔时量化富，囤卡十千养肥鱼。",
+    "startMs": 63066.66666666667,
+    "endMs": 67696.66666666667,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 1892,
+    "endFrame": 2031
+  },
+  {
+    "id": "L11",
+    "scene": "B",
+    "slot": 5,
+    "rows": [
+      "用户何为言少钱，径须充值添大米。"
+    ],
+    "text": "用户何为言少钱，径须充值添大米。",
+    "startMs": 68133.33333333334,
+    "endMs": 72335.33333333334,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 2044,
+    "endFrame": 2171
+  },
+  {
+    "id": "L12",
+    "scene": "B",
+    "slot": 6,
+    "rows": [
+      "token来！token来！Harness装Skill，",
+      "与尔同销万卡愁！"
+    ],
+    "text": "token来！token来！Harness装Skill，与尔同销万卡愁！",
+    "startMs": 72335.33333333334,
+    "endMs": 81992.33333333333,
+    "timestampMs": null,
+    "confidence": null,
+    "startFrame": 2170,
+    "endFrame": 2460
+  }
+]

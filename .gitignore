@@ -1,0 +1,38 @@
+# Credentials, local voices, caches and temporary outputs
+*.local.*
+.env
+.env.*
+!.env.example
+**/.env
+**/node_modules/
+**/.cache/
+**/.venv/
+**/__pycache__/
+**/render_bundle/
+**/render_temp/
+**/TEMP/
+**/tmp/
+**/*.log
+**/*.onnx
+**/*.bin
+**/*.pth
+**/*.ckpt
+
+# Curated-public source first: every media file requires a provenance/license review.
+projects/**/editor/public/**/*.png
+projects/**/editor/public/**/*.jpg
+projects/**/editor/public/**/*.jpeg
+projects/**/editor/public/**/*.gif
+projects/**/editor/public/**/*.wav
+projects/**/editor/public/**/*.mp3
+projects/**/editor/public/**/*.flac
+projects/**/editor/public/**/*.mp4
+projects/**/editor/public/**/*.webm
+projects/**/editor/public/**/*.ttf
+projects/**/editor/public/**/*.otf
+projects/**/release/**/*.mp4
+
+# Temporary migration reports and caches
+.worktrees/
+.local-staging/
+migration_reports/

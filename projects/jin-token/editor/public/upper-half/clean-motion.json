@@ -1,0 +1,44 @@
+[
+  {
+    "id": "singing-clean-v2",
+    "source": "upper-half/letmego-source-motion.mp4",
+    "output": "upper-half/singing-clean-v2.webm",
+    "frames": 180,
+    "fps": 30,
+    "width": 480,
+    "height": 480,
+    "samples": [
+      {
+        "frame": 0,
+        "transparentPixels": 76971,
+        "opaquePixels": 148949
+      },
+      {
+        "frame": 30,
+        "transparentPixels": 71496,
+        "opaquePixels": 154395
+      }
+    ]
+  },
+  {
+    "id": "token-clean-v2",
+    "source": "upper-half/token-return.gif",
+    "output": "upper-half/token-clean-v2.webm",
+    "frames": 151,
+    "fps": 30,
+    "width": 480,
+    "height": 592,
+    "samples": [
+      {
+        "frame": 0,
+        "transparentPixels": 45,
+        "opaquePixels": 283992
+      },
+      {
+        "frame": 30,
+        "transparentPixels": 8,
+        "opaquePixels": 284125
+      }
+    ]
+  }
+]

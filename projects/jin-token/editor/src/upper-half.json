@@ -1,0 +1,26 @@
+{
+  "pureImageFrames": 30,
+  "titleFrom": 30,
+  "titleDurationFrames": 48,
+  "poemOffsetFrames": 0,
+  "sceneEndFrames": 1060,
+  "sourcePoemFrames": 1060,
+  "totalFrames": 2523,
+  "audioMaster": "audio/full_mix_v07.wav",
+  "titleText": "将进 token",
+  "authorText": "[DeepSeek]大肥鱼",
+  "titleVoiceStatus": "proud/slightly slower title r04; author authorized direct completion",
+  "sourceSingingVideo": "external/reference-video-not-redistributed",
+  "singingRangeSeconds": [
+    1,
+    7
+  ],
+  "bubble": {
+    "left": 20,
+    "top": 8,
+    "width": 400,
+    "height": 250
+  },
+  "deliveryStatus": "v07 accepted L04 r03, proud title, connected separated vocals, approved garden and A48",
+  "songStartFrame": 1770
+}
