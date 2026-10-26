@@ -8,7 +8,7 @@
     "project-before-humanizer.md",
     "voice-before-humanizer.md"
   ],
-  "protected_blocks": "text/xml prompt blocks compared verbatim before/after; JSON request text/instruction/parameters compared to frozen source",
+  "protected_blocks": "Original prompt strings in all 8 JSON requests compared exactly; 3 long prose prompts displayed as wrapping quotes without character changes. SSML display adds explicitly labeled line breaks; original request JSON remains unchanged.",
   "initial_draft_sha256": {
     "root": "65f5eb01a532eae0e3ef9e87b7c8abfb2687ec32ddd6ba7a81633a077e6b6b7e",
     "project": "d906ffceed7505e43ba0dcb0cc2eafc6ea711992d9b63a667b6935dbd5372fef",
@@ -17,6 +17,6 @@
   "final_text_sha256": {
     "root": "60971d339fce8537f64ac965dc474b3ef23f37590807c9e2c6f67a832c1de861",
     "project": "278b7d12eca8342255a27f772c31b2af248590d7c3d39f5fdd8636df7aea43e6",
-    "voice": "ec87eb691a047e2bb789bbccde731600a3907a6591e7bc202f7c1046ddde046c"
+    "voice": "b7500aae2b0eeb1916cf2d15483b17baf8d49bf9782d6e1f82d952c40bf3dc7f"
   }
 }

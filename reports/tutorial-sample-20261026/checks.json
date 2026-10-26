@@ -2,7 +2,6 @@
   "date": "2026-10-26",
   "request_templates_verified_against_source": 8,
   "director_lines": 12,
-  "humanizer_protected_prompt_blocks_unchanged": 6,
   "python_client_syntax": "pass",
   "offline_client_checks": [
     "base64 response and overwrite guard: pass",
@@ -14,5 +13,6 @@
   "source_audio_redistributed": false,
   "utf8_no_bom": "pass",
   "skill_draft_final_hashes": "pass",
-  "protected_engine_and_existing_evidence_diff": []
+  "protected_engine_and_existing_evidence_diff": [],
+  "original_prompt_content_preserved": "8 JSON requests exact; 3 long prose prompt quotes exact; displayed SSML whitespace explicitly labeled"
 }
