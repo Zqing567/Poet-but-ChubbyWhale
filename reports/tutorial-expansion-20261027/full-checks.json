@@ -14,5 +14,24 @@
   },
   "gemini_main_prompt_unchanged": true,
   "approved_voice_only_navigation_added": true,
-  "unrelated_preexisting_edits_preserved": true
+  "unrelated_preexisting_edits_preserved": true,
+  "publication_scan": {
+    "tracked_files": 203,
+    "public_binary_count": 25,
+    "findings": []
+  },
+  "github_readback": {
+    "commit": "a67d5d5d8ac3636f6f1c148437096f5453489515",
+    "files": [
+      "tutorials/README.md",
+      "04_garden.md",
+      "05_captions.md",
+      "06_motion.md",
+      "07_compositing.md"
+    ],
+    "result": "GitHub connector readback succeeded"
+  },
+  "github_browser_rendering": "not verified: in-app navigation timed out at 30 seconds; local render checked separately",
+  "main_remote_unchanged": "dcc230c2e61bc5accbb0d6897138fdc7ca89de98",
+  "full_diff_whitespace_check": "pass"
 }
