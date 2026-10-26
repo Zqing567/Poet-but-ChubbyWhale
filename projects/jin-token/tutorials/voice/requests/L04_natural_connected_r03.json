@@ -1,0 +1,13 @@
+{
+  "model": "qwen-audio-3.1-tts-flash",
+  "input": {
+    "voice": "YOUR_PRIVATE_VOICE_ID",
+    "text": "天生用户必有用，token用尽寰复来！",
+    "format": "wav",
+    "sample_rate": 24000,
+    "volume": 60,
+    "rate": 1.0,
+    "seed": 1061,
+    "instruction": "沿用参考音色，豪迈而自然地吟诗。后半句一气呵成，token直接连着用尽说，像普通中英混说一样流畅；重音落在还复来，语气上扬、来舒展。不要在英文后换气或重新起句。只读台词。"
+  }
+}

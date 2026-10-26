@@ -1,0 +1,77 @@
+{
+  "baseline": "0357d1b",
+  "requests": [
+    {
+      "file": "requests/G1_A.json",
+      "source_project_path": "production/v3/18_director_audio_20261022/generation_cases.json",
+      "source_checkout_sha256": "b8d4a9c2f9ff151057483f3bbe25555fb3182d73739756b17aa701f84824dd12",
+      "source_case_id": "G1_A",
+      "stage": "G1 B、G34 A、G56 L11 A/L12 B为该阶段选版；后续局部修订另见教程",
+      "sanitization": "只将实际私密音色值替换为YOUR_PRIVATE_VOICE_ID；不含Key、私密URL或实际voice_id",
+      "original_text": null
+    },
+    {
+      "file": "requests/G1_B.json",
+      "source_project_path": "production/v3/18_director_audio_20261022/generation_cases.json",
+      "source_checkout_sha256": "b8d4a9c2f9ff151057483f3bbe25555fb3182d73739756b17aa701f84824dd12",
+      "source_case_id": "G1_B",
+      "stage": "G1 B、G34 A、G56 L11 A/L12 B为该阶段选版；后续局部修订另见教程",
+      "sanitization": "只将实际私密音色值替换为YOUR_PRIVATE_VOICE_ID；不含Key、私密URL或实际voice_id",
+      "original_text": null
+    },
+    {
+      "file": "requests/G34_A.json",
+      "source_project_path": "production/v3/18_director_audio_20261022/generation_cases.json",
+      "source_checkout_sha256": "b8d4a9c2f9ff151057483f3bbe25555fb3182d73739756b17aa701f84824dd12",
+      "source_case_id": "G34_A",
+      "stage": "G1 B、G34 A、G56 L11 A/L12 B为该阶段选版；后续局部修订另见教程",
+      "sanitization": "只将实际私密音色值替换为YOUR_PRIVATE_VOICE_ID；不含Key、私密URL或实际voice_id",
+      "original_text": null
+    },
+    {
+      "file": "requests/G34_B.json",
+      "source_project_path": "production/v3/18_director_audio_20261022/generation_cases.json",
+      "source_checkout_sha256": "b8d4a9c2f9ff151057483f3bbe25555fb3182d73739756b17aa701f84824dd12",
+      "source_case_id": "G34_B",
+      "stage": "G1 B、G34 A、G56 L11 A/L12 B为该阶段选版；后续局部修订另见教程",
+      "sanitization": "只将实际私密音色值替换为YOUR_PRIVATE_VOICE_ID；不含Key、私密URL或实际voice_id",
+      "original_text": null
+    },
+    {
+      "file": "requests/G56_A.json",
+      "source_project_path": "production/v3/18_director_audio_20261022/generation_cases.json",
+      "source_checkout_sha256": "b8d4a9c2f9ff151057483f3bbe25555fb3182d73739756b17aa701f84824dd12",
+      "source_case_id": "G56_A",
+      "stage": "G1 B、G34 A、G56 L11 A/L12 B为该阶段选版；后续局部修订另见教程",
+      "sanitization": "只将实际私密音色值替换为YOUR_PRIVATE_VOICE_ID；不含Key、私密URL或实际voice_id",
+      "original_text": null
+    },
+    {
+      "file": "requests/G56_B.json",
+      "source_project_path": "production/v3/18_director_audio_20261022/generation_cases.json",
+      "source_checkout_sha256": "b8d4a9c2f9ff151057483f3bbe25555fb3182d73739756b17aa701f84824dd12",
+      "source_case_id": "G56_B",
+      "stage": "G1 B、G34 A、G56 L11 A/L12 B为该阶段选版；后续局部修订另见教程",
+      "sanitization": "只将实际私密音色值替换为YOUR_PRIVATE_VOICE_ID；不含Key、私密URL或实际voice_id",
+      "original_text": null
+    },
+    {
+      "file": "requests/L04_natural_connected_r03.json",
+      "source_project_path": "production/v3/19_refinement_20261022/repair_natural_l04.py",
+      "source_checkout_sha256": "6c1063b46ed3959709fee3e819f538741f2cc617187aad695d28ccaf7369fb83",
+      "source_case_id": "L04_natural_connected_r03",
+      "stage": "后续局部修订；不重生成整首",
+      "sanitization": "只将实际私密音色值替换为YOUR_PRIVATE_VOICE_ID；不含Key、私密URL或实际voice_id",
+      "original_text": "天生用户必有用，token用尽还复来！"
+    },
+    {
+      "file": "requests/G56_tail_four_connected_three_stressed_r01.json",
+      "source_project_path": "production/v3/18_director_audio_20261022/revise_selected_ending.py",
+      "source_checkout_sha256": "459e996d8729b92798341644f5431a8260db6cc2ac1a22e570e318dc89cbc5bb",
+      "source_case_id": "G56_tail_four_connected_three_stressed_r01",
+      "stage": "后续局部修订；不重生成整首",
+      "sanitization": "只将实际私密音色值替换为YOUR_PRIVATE_VOICE_ID；不含Key、私密URL或实际voice_id",
+      "original_text": "与尔同销万卡愁！"
+    }
+  ]
+}

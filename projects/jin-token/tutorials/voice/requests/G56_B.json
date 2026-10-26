@@ -1,0 +1,14 @@
+{
+  "model": "qwen-audio-3.1-tts-flash",
+  "input": {
+    "voice": "YOUR_PRIVATE_VOICE_ID",
+    "text": "<speak>用户何为言少钱<break time=\"230ms\"/>径须充值添大米。<break time=\"300ms\"/>token来！<break time=\"210ms\"/>token来！<break time=\"280ms\"/>Harness装Skill<break time=\"170ms\"/>与尔同销万卡愁！</speak>",
+    "format": "wav",
+    "sample_rate": 24000,
+    "volume": 60,
+    "rate": 1.0,
+    "seed": 1061,
+    "instruction": "沿用参考音色。先热情理所当然地劝朋友充值，积蓄气势；两次token来高声召唤，第二次更强更急、来略舒展；Harness装Skill连贯加快，万卡愁重读、愁舒展后自然回落。豪迈畅快但不尖叫。只读台词。",
+    "enable_ssml": true
+  }
+}

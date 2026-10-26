@@ -1,0 +1,14 @@
+{
+  "model": "qwen-audio-3.1-tts-flash",
+  "input": {
+    "voice": "YOUR_PRIVATE_VOICE_ID",
+    "text": "<speak>Claude<break time=\"170ms\"/>GPT<break time=\"240ms\"/>羌进 token，机莫停！<break time=\"420ms\"/>与君歌一曲<break time=\"280ms\"/>请君为我倾耳听。<break time=\"350ms\"/>万卡算力不足贵<break time=\"220ms\"/>但愿晕碳不愿醒。<break time=\"430ms\"/>古来 SOTA 皆寂寞。</speak>",
+    "format": "wav",
+    "sample_rate": 24000,
+    "volume": 60,
+    "rate": 1.0,
+    "seed": 1061,
+    "instruction": "沿用参考音色。先热情举杯招呼Claude和GPT，机莫停短促有力；与君歌一曲突然收势、郑重低声邀请；但愿晕碳带沉醉，古来SOTA皆寂寞略低声感慨，自然收住交给歌曲。英文自然说，词组连贯。只读台词。",
+    "enable_ssml": true
+  }
+}

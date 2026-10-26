@@ -1,42 +1,42 @@
-# 《将进 token》：工程与制作经验
+# 《将进 token》是怎么做出来的？
 
-> 大肥鱼在 GPU 海崖望海吟诗，再邀请 AI 娘参加“曲水流饭”诗会。这是视频和制作方法的工程归档，不是单纯一个成片下载目录。
+一条大肥鱼端着饭碗，在显卡堆成的海崖上吟诗；吟到兴头上，又邀请 Claude、GPT 来“曲水流饭”。这支87.1秒的视频，把十二句AI梗诗、两幅古风场景和大肥鱼的心理活动放在了一起。
 
-## 项目事实与当前可用性
+我们花了不少功夫把这些东西接在一起：画面要有国画的留白，朗诵要有起伏，英文术语不能卡住，笑点也不能挡住诗句。
 
-- 原始制作基线：AI-CookUp `codex/bigfish-v3-visuals`@`0357d1b`（原工程仓库私有）。
-- 正式片：3840×2160、30fps、87.1秒，Remotion 工程直接以三倍比例输出，片尾保留 3 秒动态留白。
-- 声音：已确认的朗诵配音、音乐/歌曲片段与一个金币入盆音效组合。公开源码不附赠第三方歌曲或个人声音素材。
-- 画面：第一幕 GPU 海崖与大肥鱼；第二幕曲水流饭与 AI 娘群像；人物表演、心理气泡、金币、字幕等由不同图层合成。
-- 源码目录：`editor/`，保持上游生产结构的真实 Remotion 代码。**目前尚未公开完整运行媒体，无法仅凭克隆直接重建同一成片。**
+<img src="assets/characters/final/诗人大肥鱼2.png" width="680" alt="视频衍生的Q版诗人大肥鱼三视图">
 
-## 按用途找内容
+*这是视频衍生角色图；[另一张最终优化图与署名](assets/CHARACTER_RIGHTS.md)也已公开。官方成片观看链接待补充，这里不放猜测的BV号。*
 
-| 想做什么 | 入口 |
+## 想知道哪一部分？
+
+| 你想做什么 | 可以先看 |
 | --- | --- |
-| 了解全片故事与 L01～L12 | [VIDEO_STRUCTURE](docs/VIDEO_STRUCTURE.md) |
-| 找视觉、配音、字幕、特效的实现 | [PRODUCTION_MODULES](docs/PRODUCTION_MODULES.md) |
-| 学创作与修改的经验 | [EXPERIENCE](docs/EXPERIENCE.md) |
-| 读取所有文档 | [文档索引](docs/README.md) |
-| 开始补齐媒体与授权 | [资产索引](assets/README.md) |
-| 了解最终导出与核验 | [发布说明](release/README.md) |
-| 从旧私有仓库安全迁移 | [迁移指引](../../docs/MIGRATION.md) |
+| 跟着做一段朗诵 | [五步配音教程：让大肥鱼开口吟诗](tutorials/01_voice.md) |
+| 看两幕故事和十二句原诗 | [视频结构](docs/VIDEO_STRUCTURE.md) |
+| 找图片、三视图与提示词 | [人物图片](assets/CHARACTER_RIGHTS.md) · [完整三视图提示词](assets/prompts/scene2-turnarounds.json) · [海崖/曲水修改记录](assets/prompts/history-index.json) |
+| 运行和修改工程 | [开发者的安装与渲染步骤](editor/README.md) |
 
-## 运行环境（媒体完整后）
+## 我们先做了什么，再做了什么？
 
-Node.js 20.19+、22.13+ 或 24+，npm，必要时 FFmpeg 与 Python。实际版本/依赖记录在 editor/package-lock.json。
+1. **把诗写成能表演的台词。** 前半段在海崖上望海吟诗，后半段邀请朋友吃饭；“吃白饭”和“倾耳听”不能全用同一股气势念。
+2. **把场景画对。** 海崖不能像河岸，曲水也不能画成一片湖。主角、饭碗和水的关系明确以后，再补显卡、鲸和其他人物。右侧提前留出读诗的位置。
+3. **选声音，再调朗诵。** TTS就是把文字变成语音的服务。我们用 `qwen-audio-3.1-tts-flash` 分段生成，按导演谱调整停顿和重音，试听选版；好的一轮留住，只重做问题句。
+4. **逐层加字幕和笑点。** 字幕读过以后留在画面上，一幕五句、一幕七句。金币用程序安排轨迹；气泡里的白饭、粮仓、充值与表情按诗句切换。透明WebM是带透明背景的视频，能把动态表情叠到画上。
+5. **合成后从头看到尾。** Remotion用代码按帧合成这些图层与声音。定稿输出4K、30fps，片尾再留约3秒，表情继续动，BGM慢慢收下去。原场景位图约1672像素宽，不能把4K输出说成原画细节就是4K。
 
-```sh
-cd projects/jin-token/editor
-npm ci
-npx remotion studio --no-open
-```
+## 先从一篇完整教程开始
 
-正式入口改为 `JinToken-Final`；导出脚本支持 `--output`、`--public-dir`、`--scale`。详见[两种复现路径](editor/README.md)与[本次QC](../../reports/02_build_and_qc.md)。
+[《我们是怎么让大肥鱼开口吟诗的？》](tutorials/01_voice.md)按平台与模型、音色复制、分段生成、导演谱优化、最后选版五步展开。你能找到真实请求参数、完整脱敏提示词、“两次君不见”的A/B记录，以及“Claude，GPT”和“token用尽还复来”的修改经过。
 
-## 系列仓库定位
+画面、角色、字幕和气泡目前可以先读[已有制作复盘](docs/EXPERIENCE.md)与[七项经验](docs/LESSONS_WITH_EVIDENCE.md)。这些文章目前还是工程复盘。本轮先交配音样章，等作者确认写法后再整理其他章节。
 
-未来新作放在 `projects/<new-slug>/`；跨两部以上作品验证有效的内容才考虑抽取到根目录 shared，避免把第一部视频定制的代码误认成通用产品。
-## 新增角色素材
+<details>
+<summary>源码、运行与素材范围</summary>
 
-[最终大肥鱼优化图与署名](assets/CHARACTER_RIGHTS.md) · [全部20张新增图索引](assets/post-freeze-manifest.json) · [完整提示词](assets/prompts/scene2-turnarounds.json)。五位其他角色分别保留许可待审，不套大肥鱼协议。
+- 源码在 [editor](editor)，正式预览入口是 `JinToken-Final`。要自己运行，先按[工程README](editor/README.md)选择公开占位演示，或用合法持有的原媒体在本地补齐；不要直接运行缺媒体的默认预览。
+- [真实构建与重渲染验证](../../reports/02_build_and_qc.md)保留安装、解码、字幕、音画和片尾检查。合法本地原输入下已复现与投稿文件字节一致的4K成片。
+- [资产清单](assets/README.md)保留运行依赖和授权状态；[来源记录](docs/PROVENANCE.md)与[技术模块](docs/PRODUCTION_MODULES.md)继续供开发者查阅。
+- 人物图片见[署名与许可](assets/ATTRIBUTIONS.md)。歌曲、人声参考及部分表情不作为公开素材提供；代码许可证尚待作者决定。
+
+</details>

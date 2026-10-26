@@ -1,0 +1,14 @@
+{
+  "model": "qwen-audio-3.1-tts-flash",
+  "input": {
+    "voice": "YOUR_PRIVATE_VOICE_ID",
+    "text": "<speak>与尔同销<break time=\"180ms\"/>万！<break time=\"100ms\"/>卡！<break time=\"100ms\"/>愁！</speak>",
+    "format": "wav",
+    "sample_rate": 24000,
+    "volume": 60,
+    "rate": 1.0,
+    "seed": 1061,
+    "instruction": "沿用参考音色。与尔同销四个字连成一个气息，销字稍拖尾音；接着万、卡、愁三个字各自重读，一字一拍，坚定有力、明显强调，最后愁舒展开后自然回落。豪迈畅快但不尖叫。只读台词。",
+    "enable_ssml": true
+  }
+}

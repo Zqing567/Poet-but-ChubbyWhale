@@ -1,48 +1,41 @@
-# Poet but ChubbyWhale 🐟
+# 大肥鱼的 AI 视频制作手记
 
-**大肥鱼诗歌、角色表演与视频创作工程的长期公开仓库。** 不是《将进 token》的一次性项目。
+大肥鱼站上显卡海崖吟诗，转头又邀 Claude、GPT 来一场“曲水流饭”。这里记下视频的做法：画面怎么改，声音怎么选，哪些地方试了几轮才顺。
 
-首个归档项目：[《将进 token》](projects/jin-token/README.md)。
+## 第一部：《将进 token》
 
-2026-10-26 整理成果：[最终大肥鱼优化图与署名](projects/jin-token/assets/CHARACTER_RIGHTS.md) · [六角色完整生成提示词](projects/jin-token/assets/prompts/scene2-turnarounds.json) · [公开演示/本地复现步骤](projects/jin-token/editor/README.md) · [实际构建QC](reports/02_build_and_qc.md)。
+十二句诗，87.1秒。传统诗人的架势，讲的却是 token、显卡和白米饭。
 
-## 从这里开始
+<a href="projects/jin-token/README.md"><img src="projects/jin-token/assets/characters/final/诗人大肥鱼2.png" width="680" alt="《将进 token》衍生诗人皮大肥鱼，正面、侧面与背面三视图"></a>
 
-| 我想做什么 | 入口 |
+*图为视频衍生的角色三视图。[看作品介绍与制作过程](projects/jin-token/README.md)；成片官方观看链接待作者补充。*
+
+## 你想从哪里开始？
+
+| 想看什么 | 从这里进入 |
 | --- | --- |
-| 看《将进 token》的叙事结构、技术模块与制作方法 | [项目文档](projects/jin-token/docs/README.md) |
-| 阅读真实 Remotion 制作源码 | [editor](projects/jin-token/editor) |
-| 学习海崖、曲水、字幕、声音和动效的经验 | [创作经验](projects/jin-token/docs/EXPERIENCE.md) |
-| 了解为什么按三层来组织工程 | [组织方法](docs/STRUCTURE.md) |
-| 从原私有项目继续迁移资产 | [迁移与 worktree](docs/MIGRATION.md) |
-| 检查媒体文件与来源 | [运行/交付资产索引](projects/jin-token/assets/asset-manifest.json)及[新增图索引](projects/jin-token/assets/post-freeze-manifest.json) |
-| 查看版权与公开范围 | [素材和授权政策](docs/ASSET_POLICY.md) |
+| 了解《将进 token》讲了什么、怎么做 | [作品介绍](projects/jin-token/README.md) |
+| 跟着试做一段朗诵 | [我们是怎么让大肥鱼开口吟诗的？](projects/jin-token/tutorials/01_voice.md) |
+| 找人物图片与生图提示词 | [可公开的大肥鱼图片](projects/jin-token/assets/CHARACTER_RIGHTS.md) · [角色三视图提示词](projects/jin-token/assets/prompts/scene2-turnarounds.json) |
+| 自己运行视频工程 | [安装、预览与渲染](projects/jin-token/editor/README.md) |
 
-## 首期归档状态
+## 我们怎么做一条视频？
 
-| 内容 | 当前状态 |
-| --- | --- |
-| 《将进 token》12句诗的双场景结构 | 已整理，见项目文档 |
-| 正式 Remotion v11 核心文本源码及配置 | 已迁入 29 个文件，来源和 Git blob SHA 已登记 |
-| 角色/海崖/曲水/表情/字幕/音频/合成/验收方法 | 已按模块说明 |
-| 正式投稿信息 | 已根据私有源的验收记录归档：4K、30fps、87.1秒 |
-| 图片/音频/表情/透明动画/字体等二进制运行依赖 | 正式片19项；4字体已带许可迁入，原图/音轨等仍按项审核 |
-| 复现路径 | 公开几何占位演示与本地合法素材重渲染分开，实际验证见QC报告；公开下载仍缺原片媒体 |
-| 合法本地原媒体的4K重渲染 | 全片解码/音画/尾声通过，输出SHA与原投稿文件完全一致，见QC |
-| 代码的开放许可证 | **待作者确认，原工程 package.json 标为 UNLICENSED** |
+1. **先写诗和笑点。** 确定大肥鱼在想什么，哪些句子要认真念，哪些地方靠画面接梗。
+2. **画角色与场景。** 用 AI 生成候选，再对着参考改比例、构图、服装和留白。两张主场景撑起整首诗。
+3. **做声音。** 选好音色，分段生成配音，试听停顿、重音和英文读法；有问题的句子单独重做。
+4. **把画面和声音接起来。** 字幕逐句出现，金币、心理气泡和动态表情配合诗句，最后留几秒让音乐收住。
 
-因此这是一个**公开可读、已整理核心源码与方法、仍在媒体迁移收口中的工程仓库**，当前不能宣称“克隆即完整复现”。旧私人源项目保留不动。
+现在先公开一篇完整的[配音教程样章](projects/jin-token/tutorials/01_voice.md)，里面保留真实模型、八份脱敏请求、导演谱和失败经过。海崖、曲水、角色、字幕与表情的做法已有[制作复盘](projects/jin-token/docs/EXPERIENCE.md)，样章确认后，再继续写其他分步教程。
 
-## 为什么要这样整理？
+后续大肥鱼作品也会记录在这里，每部作品有自己的页面。
 
-原用户思维导图按“视觉/听觉”拆解；Codex 制作图按“声音骨架 → 两幕画面 → 叠加层 → 合成导出”组织。本仓库改为 **叙事结构 × 制作模块 × 经验/资产来源** 三层索引，让普通观众读得懂，创作者能重用，开发者找得到代码。
+<details>
+<summary>开发者与素材使用说明</summary>
 
-## 代码与资产来源
+- [视频结构与技术模块](projects/jin-token/docs/README.md)、[实际构建与重渲染验证](reports/02_build_and_qc.md)。使用合法本地原媒体，已重渲染出与投稿定稿字节一致的4K文件；公开下载的演示使用占位图和静音，不是原片。
+- [运行与交付资产清单](projects/jin-token/assets/asset-manifest.json)、[新增图片索引](projects/jin-token/assets/post-freeze-manifest.json)、[源码来源](projects/jin-token/code-provenance.json)、[迁移记录](docs/MIGRATION.md)。
+- 图片、字体各有自己的许可，见[署名表](projects/jin-token/assets/ATTRIBUTIONS.md)。原歌曲、参考人声和未获再分发确认的表情不作为下载素材提供。代码许可证尚待作者选择，当前保留 `UNLICENSED`；具体见[素材政策](docs/ASSET_POLICY.md)。
+- 想了解目录怎么组织，见[组织方法](docs/STRUCTURE.md)。
 
-源项目：AI-CookUp 的私有分支 `codex/bigfish-v3-visuals`，固定 `0357d1b`。本次初始迁入了制作源码/配置信息，并对两处机器特定的参考视频/透明动画路径做了脱敏处理；逐文件 hash 对照在 [code-provenance.json](projects/jin-token/code-provenance.json)。
-
-已有 BGM、歌曲、参考人声与经典社区表情的权利尚未逐项确认，本仓库**不会因为公开就自动重新上传这些媒体**。具体见 [素材政策](docs/ASSET_POLICY.md)。真正开放源代码许可（MIT/Apache-2.0/GPL 等）仍需作者作出决定，公开可读不等于默认授予再许可权。
-
-## 下一部大肥鱼作品
-
-新的独立作品应放在 `projects/<slug>/`；跨多部验证的通用字幕、导演谱、生成流程和效果组件再提炼到 `shared/`，不把第一部独有的海崖/GPU/铁盆写成通用平台规则。
+</details>
