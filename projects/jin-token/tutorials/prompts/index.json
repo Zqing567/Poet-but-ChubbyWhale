@@ -52,5 +52,30 @@
     "record_file": "02_bigfish-turnaround.json",
     "source": "production/v3/27_scene2_turnarounds_20261025/imagegen-prompts.json",
     "stage": "发布后第二场景大肥鱼三视图：唯一目标Q版主角"
+  },
+  {
+    "file": "04_garden-layout.md",
+    "source": "projects/jin-token/assets/prompts/garden-layout-candidates.json",
+    "stage": "实际三候选与4碗修订，不等于最终碗数"
+  },
+  {
+    "file": "04_garden-chibi.md",
+    "source": "projects/jin-token/assets/prompts/garden-chibi-revision.json",
+    "stage": "作者选定底图后仅改主角Q版站姿，保留5碗"
+  },
+  {
+    "file": "04_garden-identities.md",
+    "source": "projects/jin-token/assets/prompts/garden-character-corrections.json",
+    "stage": "仅修Gemini/Grok，另有未采用分辨率重试"
+  },
+  {
+    "file": "06_cloud-reconstruction-spec.md",
+    "source": "production/v3/21_bubble_adaptation_editor_20261022/assets/generation-spec.md",
+    "stage": "交接复现规格，非逐字请求日志"
+  },
+  {
+    "file": "06_gemini-gpu-experiment.md",
+    "source": "production/v3/22_final_hold_gemini_20261023/Gemini/Gemini_显卡由待机到满载_Prompt.md",
+    "stage": "实际实验任务，未用于首发，模型未记录"
   }
 ]

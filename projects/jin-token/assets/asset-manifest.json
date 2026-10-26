@@ -2322,6 +2322,240 @@
         ],
         "operation": "rectangle crop only; no pixel repaint"
       }
+    },
+    {
+      "asset_id": "JT-TUTORIAL-FULL-01",
+      "label": "FULL-01",
+      "source_path": "production/v3/editor/public/lower-half/B-grand-river-v1.png",
+      "target_path": "projects/jin-token/tutorials/images/garden-river-study.png",
+      "path": null,
+      "category": "tutorial_example",
+      "used_in_final": false,
+      "status": "早期无人河景候选，非湖畔群像错误图，逐字生成Prompt未定位",
+      "tool": "historic project image; see source/spec, backend sampling parameters unknown",
+      "sha256": "9b7706c6e10d655faeeb995f8e10f25cba2635f9899adf980cb55446000b0bb0",
+      "size_bytes": 3192769,
+      "dimensions": [
+        1672,
+        941
+      ],
+      "alpha_range": null,
+      "rights_holder": "project AI adaptation Zqing567; Bigfish design 上善无形/上善 and ZipZipPipe where present",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_evidence": "projects/jin-token/tutorials/IMAGE_NOTES.md",
+      "publish_approved": true,
+      "review_basis": "Author requests complete illustrated tutorial; selected own project backgrounds/Bigfish derivatives only under established scoped permission; no other character full images, external scans or voice copied"
+    },
+    {
+      "asset_id": "JT-TUTORIAL-FULL-02",
+      "label": "FULL-02",
+      "source_path": "production/v3/editor/public/lower-half/B-approved-20261022.png",
+      "target_path": "projects/jin-token/tutorials/images/garden-host-crop.png",
+      "path": null,
+      "category": "tutorial_example",
+      "used_in_final": false,
+      "status": "最终B场景大肥鱼局部裁切，非完整群像",
+      "tool": "historic project image; see source/spec, backend sampling parameters unknown",
+      "sha256": "0dd97b9e9ef4ac133324b27c68b517864ea3ffeed6d00a867114ff0915ede092",
+      "size_bytes": 182394,
+      "dimensions": [
+        260,
+        320
+      ],
+      "alpha_range": null,
+      "rights_holder": "project AI adaptation Zqing567; Bigfish design 上善无形/上善 and ZipZipPipe where present",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_evidence": "projects/jin-token/tutorials/IMAGE_NOTES.md",
+      "publish_approved": true,
+      "review_basis": "Author requests complete illustrated tutorial; selected own project backgrounds/Bigfish derivatives only under established scoped permission; no other character full images, external scans or voice copied",
+      "derivation": {
+        "source_path": "production/v3/editor/public/lower-half/B-approved-20261022.png",
+        "crop_xyxy": [
+          350,
+          400,
+          610,
+          720
+        ],
+        "operation": "rectangle crop only; no repaint"
+      }
+    },
+    {
+      "asset_id": "JT-TUTORIAL-FULL-03",
+      "label": "FULL-03",
+      "source_path": "production/v3/editor/public/lower-half/B-approved-20261022.png",
+      "target_path": "projects/jin-token/tutorials/images/garden-bowls-crop.png",
+      "path": null,
+      "category": "tutorial_example",
+      "used_in_final": false,
+      "status": "最终B场景下游饭碗局部裁切，非计数全图",
+      "tool": "historic project image; see source/spec, backend sampling parameters unknown",
+      "sha256": "2f9cea1ed0d288caeb7f1b0e992ca1bff845c9eecae094c3343cf4bc84fd5ba3",
+      "size_bytes": 86699,
+      "dimensions": [
+        225,
+        185
+      ],
+      "alpha_range": null,
+      "rights_holder": "project AI adaptation Zqing567; Bigfish design 上善无形/上善 and ZipZipPipe where present",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_evidence": "projects/jin-token/tutorials/IMAGE_NOTES.md",
+      "publish_approved": true,
+      "review_basis": "Author requests complete illustrated tutorial; selected own project backgrounds/Bigfish derivatives only under established scoped permission; no other character full images, external scans or voice copied",
+      "derivation": {
+        "source_path": "production/v3/editor/public/lower-half/B-approved-20261022.png",
+        "crop_xyxy": [
+          450,
+          745,
+          675,
+          930
+        ],
+        "operation": "rectangle crop only; no repaint"
+      }
+    },
+    {
+      "asset_id": "JT-TUTORIAL-FULL-04",
+      "label": "FULL-04",
+      "source_path": "production/v3/editor/public/lower-half/token-plate-4x3-v21.png",
+      "target_path": "projects/jin-token/tutorials/images/thought-token-plate.png",
+      "path": null,
+      "category": "tutorial_example",
+      "used_in_final": false,
+      "status": "正式片尾4:3纸云底图，不含运动人物",
+      "tool": "historic project image; see source/spec, backend sampling parameters unknown",
+      "sha256": "2ecc30c4ef88d3b20f11f6999b55e37d06360cd4d6ba9e997762e43256d10f11",
+      "size_bytes": 2290666,
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "rights_holder": "project AI adaptation Zqing567; Bigfish design 上善无形/上善 and ZipZipPipe where present",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_evidence": "projects/jin-token/tutorials/IMAGE_NOTES.md",
+      "publish_approved": true,
+      "review_basis": "Author requests complete illustrated tutorial; selected own project backgrounds/Bigfish derivatives only under established scoped permission; no other character full images, external scans or voice copied"
+    },
+    {
+      "asset_id": "JT-TUTORIAL-FULL-05",
+      "label": "FULL-05",
+      "source_path": "production/v3/editor/public/lower-half/granary-4x3-v21.png",
+      "target_path": "projects/jin-token/tutorials/images/thought-granary.png",
+      "path": null,
+      "category": "tutorial_example",
+      "used_in_final": false,
+      "status": "正式4:3粮仓心理图",
+      "tool": "historic project image; see source/spec, backend sampling parameters unknown",
+      "sha256": "bcca955acdfd49d89d184639d09d2082a86ca94ee3693dd6015585fd1572cabb",
+      "size_bytes": 3046738,
+      "dimensions": [
+        1448,
+        1086
+      ],
+      "alpha_range": [
+        0,
+        255
+      ],
+      "rights_holder": "project AI adaptation Zqing567; Bigfish design 上善无形/上善 and ZipZipPipe where present",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_evidence": "projects/jin-token/tutorials/IMAGE_NOTES.md",
+      "publish_approved": true,
+      "review_basis": "Author requests complete illustrated tutorial; selected own project backgrounds/Bigfish derivatives only under established scoped permission; no other character full images, external scans or voice copied"
+    },
+    {
+      "asset_id": "JT-TUTORIAL-CAPTION-1",
+      "label": "CAPTION-1",
+      "source_path": "documentation render: unchanged editor/src/CaptionStudy.tsx Poem",
+      "target_path": "projects/jin-token/tutorials/images/captions-first-line.png",
+      "path": null,
+      "category": "tutorial_example",
+      "used_in_final": false,
+      "status": "2026-10-27实际字幕层重绘，隐藏背景与媒体；不是历史成片截图",
+      "tool": "Remotion 4.0.537 / React 19.2.3; Poem original source",
+      "render": {
+        "id": "Caption-A",
+        "frame": 120,
+        "file": "captions-first-line.png",
+        "width": 1280,
+        "height": 720,
+        "fps": 30,
+        "method": "2026-10-27 documentation render of unchanged Poem component over plain paper color; no movie background, voice or meme"
+      },
+      "sha256": "886b66aee65ebff53a370b6697e9fb489e5c79929402f329c4e3d902b5e53cca",
+      "size_bytes": 344510,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "rights_holder": "Zqing567 project tutorial; font under bundled license",
+      "license": "CC-BY-NC-SA-4.0; font license independent",
+      "license_evidence": "projects/jin-token/tutorials/IMAGE_NOTES.md",
+      "publish_approved": true,
+      "review_basis": "Current tutorial render of existing published poem and licensed font, no private images/audio/memes used"
+    },
+    {
+      "asset_id": "JT-TUTORIAL-CAPTION-2",
+      "label": "CAPTION-2",
+      "source_path": "documentation render: unchanged editor/src/CaptionStudy.tsx Poem",
+      "target_path": "projects/jin-token/tutorials/images/captions-scene-a-complete.png",
+      "path": null,
+      "category": "tutorial_example",
+      "used_in_final": false,
+      "status": "2026-10-27实际字幕层重绘，隐藏背景与媒体；不是历史成片截图",
+      "tool": "Remotion 4.0.537 / React 19.2.3; Poem original source",
+      "render": {
+        "id": "Caption-A",
+        "frame": 1050,
+        "file": "captions-scene-a-complete.png",
+        "width": 1280,
+        "height": 720,
+        "fps": 30,
+        "method": "2026-10-27 documentation render of unchanged Poem component over plain paper color; no movie background, voice or meme"
+      },
+      "sha256": "21ac89b686956e090746c7e92e4a19282c7d6f23b06ded42fcb34d89cac3054e",
+      "size_bytes": 380396,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "rights_holder": "Zqing567 project tutorial; font under bundled license",
+      "license": "CC-BY-NC-SA-4.0; font license independent",
+      "license_evidence": "projects/jin-token/tutorials/IMAGE_NOTES.md",
+      "publish_approved": true,
+      "review_basis": "Current tutorial render of existing published poem and licensed font, no private images/audio/memes used"
+    },
+    {
+      "asset_id": "JT-TUTORIAL-CAPTION-3",
+      "label": "CAPTION-3",
+      "source_path": "documentation render: unchanged editor/src/CaptionStudy.tsx Poem",
+      "target_path": "projects/jin-token/tutorials/images/captions-scene-b-complete.png",
+      "path": null,
+      "category": "tutorial_example",
+      "used_in_final": false,
+      "status": "2026-10-27实际字幕层重绘，隐藏背景与媒体；不是历史成片截图",
+      "tool": "Remotion 4.0.537 / React 19.2.3; Poem original source",
+      "render": {
+        "id": "Caption-B",
+        "frame": 2500,
+        "file": "captions-scene-b-complete.png",
+        "width": 1280,
+        "height": 720,
+        "fps": 30,
+        "method": "2026-10-27 documentation render of unchanged Poem component over plain paper color; no movie background, voice or meme"
+      },
+      "sha256": "a783753cdab42fcc7b8943dc1413b35350a26c6f10494a1ffa4bbb55471996c1",
+      "size_bytes": 300472,
+      "dimensions": [
+        1280,
+        720
+      ],
+      "rights_holder": "Zqing567 project tutorial; font under bundled license",
+      "license": "CC-BY-NC-SA-4.0; font license independent",
+      "license_evidence": "projects/jin-token/tutorials/IMAGE_NOTES.md",
+      "publish_approved": true,
+      "review_basis": "Current tutorial render of existing published poem and licensed font, no private images/audio/memes used"
     }
   ],
   "runtime_profile": {

@@ -119,4 +119,4 @@ V3高海崖请求里，我们直接把边界写进去：
 - [早期水岸与人物缩小](prompts/03_riverbank-study.md) · [高断崖](prompts/03_high-cliff.md) · [GPU加密](prompts/03_gpu-density.md) · [恢复石台](prompts/03_rock-platform.md)。
 - [图片阶段与署名](IMAGE_NOTES.md)、[完整图像来源](image-sources.json)。具体底层生图型号与采样参数未披露的地方，均保留未知。
 - 最终代码入口是 [`GpuBackdrop.tsx`](../editor/src/GpuBackdrop.tsx)，直接加载选定PNG；局部合成发生在制作阶段，不是每一帧重画崖壁。
-- [返回教程导航](README.md) · [上一篇：角色形象](02_character.md)。
+- [返回教程导航](README.md) · [上一篇：角色形象](02_character.md) · [下一篇：曲水流饭](04_garden.md)。

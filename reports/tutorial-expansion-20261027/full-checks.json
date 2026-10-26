@@ -1,0 +1,18 @@
+{
+  "baseline_manifest_records_preserved": 95,
+  "runtime_source_and_profile_unchanged": true,
+  "all_tutorial_png_records_verified": 19,
+  "new_pngs": 8,
+  "new_deterministic_crop_checks": 2,
+  "new_svg_xml_checks": 2,
+  "relative_targets_checked": 269,
+  "anchor_flags": [],
+  "new_verbatim_prompt_counts": {
+    "04_garden-layout": 4,
+    "04_garden-chibi": 1,
+    "04_garden-identities": 2
+  },
+  "gemini_main_prompt_unchanged": true,
+  "approved_voice_only_navigation_added": true,
+  "unrelated_preexisting_edits_preserved": true
+}
