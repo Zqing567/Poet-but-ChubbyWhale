@@ -1,0 +1,12 @@
+{
+  "source_project_record": "production/v3/12_revision_20261021/rock-cap-generation.json",
+  "stage": "恢复人物脚下石台，再局部合成进最终底图",
+  "notes": "完整历史提示词；仅参考路径脱敏。候选不自动等于采用版本，底层模型/采样参数未披露。",
+  "records": {
+    "tool": "built-in image_gen",
+    "generatedSource": "reference-only:exec-4893a88b-38ff-4190-a28b-4302fe96ceaf.png",
+    "prompt": "Use case: precise-object-edit. Edit Image 1 (dense GPU seacliff); Image 2 is ONLY a reference for the original rock platform material.\nMake exactly two small local changes to Image 1: (1) Restore a continuous, natural light sandstone/ink-painted ROCK CAP across the ground under the blue-haired heroine's feet and the steel basin, from the left edge through the top ledge. She must stand on solid rocky ground, not on circuit boards or GPU cases. Keep the dense GPUs immediately BELOW this thin stone cap. (2) Extend the existing rock material at the far LEFT outer rim and stepped RIGHT cliff boundary inward just a little, as irregular slender natural stone tongues merging between the outermost hardware. No broad rock pillars in the interior: the main vertical cliff body remains visibly dense recognizable GPU/server stacks, fans, cooling fins and amber lights, just as Image 1.\nSTRICT INVARIANTS: keep heroine identity, face, hair, hands, costume, scale, exact placement, basin, all sky and clouds, ocean, horizon, sunset, whales, paper grain, watercolor/ink style, lighting, canvas framing and all GPU geometry below the cap unchanged. Do not move, zoom or redesign anything. Keep wide 1672:941 aspect. No text, no new objects. This is a restrained material correction only.",
+    "final": "previews/gpu-rock-cap-final.png",
+    "compositing": "GpuBackdrop.tsx cliffPatch; baseline preserved outside cliff face"
+  }
+}

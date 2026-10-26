@@ -1,0 +1,56 @@
+[
+  {
+    "file": "02_character-cutouts.md",
+    "record_file": "02_character-cutouts.json",
+    "source": "production/v3/data/imagegen-identity-results.json",
+    "stage": "早期原皮与古风透明立绘候选"
+  },
+  {
+    "file": "02_character-alpha-fix.md",
+    "record_file": "02_character-alpha-fix.json",
+    "source": "production/v3/data/imagegen-identity-fix.json",
+    "stage": "透明立绘修订：锁轮廓、修光晕和不透明内区"
+  },
+  {
+    "file": "03_riverbank-study.md",
+    "record_file": "03_riverbank-study.json",
+    "source": "production/v2/data/imagegen-prompts-A.json",
+    "stage": "早期水岸方向及人物缩小试验，非定稿"
+  },
+  {
+    "file": "03_high-cliff.md",
+    "record_file": "03_high-cliff.json",
+    "source": "production/v3/data/imagegen-A-results.json",
+    "stage": "重建高海崖、空阔外海与触水鲸群"
+  },
+  {
+    "file": "03_camera-orca-study.md",
+    "record_file": "03_camera-orca-study.json",
+    "source": "production/v3/data/imagegen-A-round2-close-orca-requests.json",
+    "stage": "作者批注后的近景/右崖/蓝色虎鲸研究，非最终构图"
+  },
+  {
+    "file": "03_style-contrast.md",
+    "record_file": "03_style-contrast.json",
+    "source": "production/v3/data/imagegen-A-round2-stylefix-requests.json",
+    "stage": "风格与虎鲸解剖对照研究，未将油彩实验当正式水墨片"
+  },
+  {
+    "file": "03_gpu-density.md",
+    "record_file": "03_gpu-density.json",
+    "source": "production/v3/12_revision_20261021/generation-manifest.json",
+    "stage": "把GPU从零散嵌入改成密集崖体"
+  },
+  {
+    "file": "03_rock-platform.md",
+    "record_file": "03_rock-platform.json",
+    "source": "production/v3/12_revision_20261021/rock-cap-generation.json",
+    "stage": "恢复人物脚下石台，再局部合成进最终底图"
+  },
+  {
+    "file": "02_bigfish-turnaround.md",
+    "record_file": "02_bigfish-turnaround.json",
+    "source": "production/v3/27_scene2_turnarounds_20261025/imagegen-prompts.json",
+    "stage": "发布后第二场景大肥鱼三视图：唯一目标Q版主角"
+  }
+]

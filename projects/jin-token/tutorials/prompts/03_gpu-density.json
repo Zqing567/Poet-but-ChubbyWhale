@@ -1,0 +1,16 @@
+{
+  "source_project_record": "production/v3/12_revision_20261021/generation-manifest.json",
+  "stage": "把GPU从零散嵌入改成密集崖体",
+  "notes": "完整历史提示词；仅参考路径脱敏。候选不自动等于采用版本，底层模型/采样参数未披露。",
+  "records": [
+    {
+      "id": "gpu-dense-v2",
+      "refs": [
+        "production/v3/10_upper_half_20261021/assets/gpu-hybrid.png"
+      ],
+      "transparent": false,
+      "prompt": "PRECISE LOCAL EDIT of the attached image. Change ONLY the interior of the existing LEFT cliff / GPU cluster. Everything else strictly invariant: original framing, camera, horizon, sunset, clouds, sea, orca and whale tails, heroine identity/face/hair/pose/ivory hanfu/size/position, steel bowl, exact cliff outline and overall paper palette. No zoom, no mirroring, no text, no extra figures. The current interior contains broad unnecessary rock/stone strips between GPU racks. Replace ALL of those interior rock masses with a continuous extremely dense cliff-sized mass of recognizable GPU accelerator cards, stacked heatsink modules, server boards, cooling fans, metal fins and small cables. GPU hardware should now occupy about 90–95 percent of the cliff interior, visibly MUCH more substantial and connected, not sparse embedded machines. Keep only a THIN original rock/mineral rim at the outside silhouette edges and a thin crown lip; no big rock pillars interleaved among the GPUs. Keep existing rack perspectives and muted slate blue/charcoal/aged copper, same Chinese ink and pale-color brush style. Retain a few crisp visible front-facing cooling fans and indicator lights for later animation. Do not change brightness/color anywhere outside this material swap.",
+      "source": "reference-only:exec-dc87f5c2-35f6-46ba-b8ee-8cbfb3b3853b.png"
+    }
+  ]
+}

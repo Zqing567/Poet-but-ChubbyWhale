@@ -40,3 +40,6 @@
 - 人物图片见[署名与许可](assets/ATTRIBUTIONS.md)。歌曲、人声参考及部分表情不作为公开素材提供；代码许可证尚待作者决定。
 
 </details>
+## 本轮图文样章
+
+[教程导航](tutorials/README.md) · [角色形象与一致性](tutorials/02_character.md) · [显卡海崖与鲸群](tutorials/03_cliff.md) · [交给Agent复刻](tutorials/agents/README.md)。配音采用作者修订稿；两篇图文样章待审核后，再整合其他教程。

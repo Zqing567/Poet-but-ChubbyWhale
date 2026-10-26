@@ -39,3 +39,5 @@
 - 想了解目录怎么组织，见[组织方法](docs/STRUCTURE.md)。
 
 </details>
+
+本轮图文样章：[角色形象](projects/jin-token/tutorials/02_character.md) · [显卡海崖](projects/jin-token/tutorials/03_cliff.md)（待作者审核）。[全部教程与Agent入口](projects/jin-token/tutorials/README.md)。

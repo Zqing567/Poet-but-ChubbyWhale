@@ -1,0 +1,20 @@
+{
+  "original_manifest_records_preserved": 84,
+  "images_hashes_dimensions_and_originals": 11,
+  "crop_pixel_checks": 2,
+  "verbatim_prompt_counts": {
+    "02_bigfish-turnaround": 1,
+    "02_character-alpha-fix": 1,
+    "02_character-cutouts": 2,
+    "03_camera-orca-study": 1,
+    "03_gpu-density": 1,
+    "03_high-cliff": 1,
+    "03_riverbank-study": 2,
+    "03_rock-platform": 1,
+    "03_style-contrast": 2
+  },
+  "relative_link_targets_checked": 89,
+  "utf8_no_bom_checked": true,
+  "approved_voice_preserved": "only five-to-six step count correction; helper content unchanged, UTF8/LF normalized",
+  "voice_client_offline": "syntax, mocked base64 success, redaction, overwrite refusal; no paid API call"
+}
