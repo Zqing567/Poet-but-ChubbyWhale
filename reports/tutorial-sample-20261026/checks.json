@@ -8,11 +8,20 @@
     "url response and overwrite guard: pass"
   ],
   "live_tts_requests": 0,
-  "local_links_checked": 59,
+  "local_links_checked": 60,
   "svg_xml": "pass",
   "source_audio_redistributed": false,
   "utf8_no_bom": "pass",
   "skill_draft_final_hashes": "pass",
   "protected_engine_and_existing_evidence_diff": [],
-  "original_prompt_content_preserved": "8 JSON requests exact; 3 long prose prompt quotes exact; displayed SSML whitespace explicitly labeled"
+  "original_prompt_content_preserved": "8 JSON requests exact; 3 long prose prompt quotes exact; displayed SSML whitespace explicitly labeled",
+  "prompt_display_content_verified": 6,
+  "missing_output_directory_before_request": "pass",
+  "browser": {
+    "root_hero_image": "loaded and visually inspected",
+    "tutorial": "five numbered steps rendered; long quotes wrap; SSML display readable",
+    "diagram": "SVG loaded at natural width760; visually inspected",
+    "appendix": "expanded through browser click",
+    "github_site_console": "Navigation payload404 and transient assets certificate-cache errors observed; document body and images loaded"
+  }
 }
