@@ -12,4 +12,3 @@ Make exactly two small local changes to Image 1: (1) Restore a continuous, natur
 STRICT INVARIANTS: keep heroine identity, face, hair, hands, costume, scale, exact placement, basin, all sky and clouds, ocean, horizon, sunset, whales, paper grain, watercolor/ink style, lighting, canvas framing and all GPU geometry below the cap unchanged. Do not move, zoom or redesign anything. Keep wide 1672:941 aspect. No text, no new objects. This is a restrained material correction only.
 
 </details>
-

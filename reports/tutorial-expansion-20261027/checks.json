@@ -16,5 +16,13 @@
   "relative_link_targets_checked": 89,
   "utf8_no_bom_checked": true,
   "approved_voice_preserved": "only five-to-six step count correction; helper content unchanged, UTF8/LF normalized",
-  "voice_client_offline": "syntax, mocked base64 success, redaction, overwrite refusal; no paid API call"
+  "voice_client_offline": "syntax, mocked base64 success, redaction, overwrite refusal; no paid API call",
+  "publication_scan": {
+    "tracked_files": 177,
+    "public_binary_count": 17,
+    "findings": []
+  },
+  "github_connector_readback": "both sample chapters at ce0f44bc07cfe2a5df6865f243552a108f30028d",
+  "github_browser_rendering": "not verified: connection reset/timeouts in CLI browser and in-app browser",
+  "main_remote": "dcc230c2e61bc5accbb0d6897138fdc7ca89de98"
 }

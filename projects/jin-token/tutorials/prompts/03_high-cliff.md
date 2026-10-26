@@ -21,4 +21,3 @@ Whales live IN THE SEA: one substantial gray-blue back and head break the water 
 RIGHT 46% x=54%-97%, y=15%-94% must stay calm, low-contrast pale ivory/blue-gray sea and sky for exact poem typography later; no whale, spray, face, branches or dark rocks cross it. Clear but delicate horizon can traverse it. Sparse economical dry ink cliff contours, wet distant sea washes, cool slate blue, muted celadon, light ivory paper, tiny ochre notes. Not photorealism/HDR/game CG. Broad atmospheric ocean-scale, not mountains with a bigger river. No writing, seals, logo, border or decorative glyphs.
 
 </details>
-
