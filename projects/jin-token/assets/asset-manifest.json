@@ -2556,6 +2556,36 @@
       "license_evidence": "projects/jin-token/tutorials/IMAGE_NOTES.md",
       "publish_approved": true,
       "review_basis": "Current tutorial render of existing published poem and licensed font, no private images/audio/memes used"
+    },
+    {
+      "asset_id": "JT-VOICE-REFERENCE-WAV",
+      "path": null,
+      "target_path": "projects/jin-token/tutorials/voice/samples/bigfish-voice-reference.wav",
+      "category": "tutorial_voice_sample",
+      "used_in_final": false,
+      "status": "AI生成朗诵的后期拼接参考音频；非原始人声",
+      "rights_holder": "原参考对白公开及复刻用途由作者确认；项目朗诵制作 Zqing567",
+      "license": "作者确认公开分享及用于复刻；其他用途未声明",
+      "license_evidence": "projects/jin-token/tutorials/voice/samples/README.md",
+      "publish_approved": true,
+      "review_basis": "作者2026-10-29确认原始参考对白可用于公开和分享基于它复刻的声音，并选定试听稿",
+      "sha256": "c40ac6c4a75d4aa331b4ec3fb5f4bf2e1e7c82ed72b7f4fbedd3edc3d0b920aa",
+      "size_bytes": 1153518
+    },
+    {
+      "asset_id": "JT-VOICE-REFERENCE-MP3",
+      "path": null,
+      "target_path": "projects/jin-token/tutorials/voice/samples/bigfish-voice-reference.mp3",
+      "category": "tutorial_voice_sample",
+      "used_in_final": false,
+      "status": "AI生成朗诵的后期拼接参考音频；非原始人声",
+      "rights_holder": "原参考对白公开及复刻用途由作者确认；项目朗诵制作 Zqing567",
+      "license": "作者确认公开分享及用于复刻；其他用途未声明",
+      "license_evidence": "projects/jin-token/tutorials/voice/samples/README.md",
+      "publish_approved": true,
+      "review_basis": "作者2026-10-29确认原始参考对白可用于公开和分享基于它复刻的声音，并选定试听稿",
+      "sha256": "b62471681baca936034616d74d60f842c3a7743bea4626a87184501c637d592e",
+      "size_bytes": 482445
     }
   ],
   "runtime_profile": {

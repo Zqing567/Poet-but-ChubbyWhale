@@ -27,7 +27,9 @@
 2. 按[官方声音复刻接口](https://help.aliyun.com/zh/model-studio/voice-clone-design-http-api)上传参考音频，创建时将 `target_model` 设为 `qwen-audio-3.1-tts-flash`。
 3. 用返回的音色 ID 生成测试句。声音满意后就先锁住，不要一边改朗诵、一边反复换音色。
 
-**关于音色素材开源**：我们准备把可合法公开的音色参考文件、试听示例及复刻配置一并整理到项目中，方便大家在自己的账号下重新建立音色。目前这篇教程引用的公开目录**尚未包含已经确认可再分发的完整音色样本**，因此不提供未经审核的原始人声。即使拿到同一份样本，也需要自己创建音色 ID，效果可能有一定差异。
+**大肥鱼音色参考**：这段约24秒的AI生成朗诵经作者确认可公开，并可用于复刻。先[试听MP3](voice/samples/bigfish-voice-reference.mp3)，再[下载WAV参考音频](voice/samples/bigfish-voice-reference.wav)。
+
+在自己的千问账号按上面的声音复刻步骤上传WAV、创建音色ID，再使用[导演谱](voice/director-score.md)和[真实请求模板](voice/requests/)生成朗诵。不同账号需要各自创建音色ID，生成效果可能有差异。音频来源和授权范围见[素材说明](voice/samples/README.md)。
 
 ## 3. 朗诵生成：不要一上来就念整首
 
