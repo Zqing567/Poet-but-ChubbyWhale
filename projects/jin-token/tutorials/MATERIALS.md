@@ -33,6 +33,6 @@
 
 字幕用[句稿时点](../editor/src/captions.json)、[布局](../editor/src/selected-layout.json)和[字体加载](../editor/src/Fonts.ts)；心理活动用[cue时点](../editor/src/cue-model.ts)；导出用[正式脚本](../editor/render-submission-4k.cjs)。完整安装步骤见[工程README](../editor/README.md)。
 
-其他角色完整图、原歌曲、人声音色与部分表情不随此页提供。合法本地原媒体复现有独立入口，不用公开图像说明替代媒体许可。
+[大肥鱼音色参考音频](voice/samples/README.md)可供试听和复刻；其他角色完整图、原歌曲、原参考对白与部分表情不随此页提供。合法本地原媒体复现有独立入口，不用公开图像说明替代媒体许可。
 
 [返回教程](README.md) · [逐图来源](image-sources.json)
