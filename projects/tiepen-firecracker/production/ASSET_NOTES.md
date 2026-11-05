@@ -9,5 +9,7 @@
 | `backgrounds/sky-A.png` | 飞盆仰拍背景 |
 | `props/basin-P0-P1-P2-study.png` | 同一铁盆完好、底破、扣头角度的造型对照 |
 | `props/basin-P0-intact.png`、`basin-P1-broken.png` | 从对照造型分别提取的透明道具候选 |
+| `characters/claude-thought-closeup.png` | Claude 大小姐的心理气泡近景透明素材；按作者提供的橘发立绘与脸部特写固定身份，原表情包只参考近景和神情；字句由后期单独叠加 |
+| `characters/xiaoxi-provisional-tail.png` | 带鲸尾和双层裙摆的临时小汐透明立绘；作者仍在调整形象，不能视作定稿 |
 
-上述图像由内置 ImageGen 制作。原角色图仍由作者调整。道具透明层已检查确有 alpha 通道，人物与盆合成后的尺度及破洞位置还需随关键帧检查。背景图均为 1672×941。现阶段没有已选朗诵音轨，图像不代表首节样片已完成。
+上述图像由内置 ImageGen 制作。Claude 的上一版自拟橘发 Q 版形象已弃用，不进入项目素材。角色和道具透明层已检查确有 alpha 通道，人物与盆合成后的尺度及破洞位置还需随关键帧检查。背景图均为 1672×941。现阶段没有已选朗诵音轨，图像不代表首节样片已完成。
